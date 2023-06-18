@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: falldown-app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: falldown-app
+  template:
+    metadata:
+      labels:
+        app: falldown-app
+    spec:
+      containers:
+        - name: falldown-app-container
+          image: yhy0009/falldown_final
+          volumeMounts:
+            - name: falldown-app-vol
+              mountPath: /root/test11.mp4
+      volumes:
+        - name: falldown-app-vol
+          persistentVolumeClaim:
+            claimName: my-pvc
+---
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: my-pv
+spec:
+  storageClassName: my-storage-class
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: /home/root1/Desktop/video1.mp4
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: my-pvc
+spec:
+  storageClassName: my-storage-class
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+

@@ -1,0 +1,1263 @@
+2023-05-31 22:37:36,458 [INFO]: MainProcess video.py(cli:112) >> neural network device: cpu
+2023-05-31 22:37:36,459 [INFO]: MainProcess multistreamloader.py(generateStreams:33) >> Initialising stream: /home/root1/Desktop/videos/video1.mp4
+2023-05-31 22:37:36,990 [INFO]: Process-2  animation_frame.py(__init__:47) >> video output = None
+2023-05-31 22:37:37,058 [INFO]: Process-2  video.py(inference:170) >> Loaded stream: /home/root1/Desktop/videos/video1.mp4
+2023-05-31 22:37:36,990 [INFO]: Process-2  animation_frame.py(__init__:47) >> video output = None
+2023-05-31 22:37:37,058 [INFO]: Process-2  video.py(inference:170) >> Loaded stream: /home/root1/Desktop/videos/video1.mp4
+2023-05-31 22:37:38,592 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:38,608 [INFO]: Process-2  video.py(inference:246) >> frame 0, loop time = 1.546s, input FPS = 20.000, output FPS = 0.647
+2023-05-31 22:37:38,592 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:38,608 [INFO]: Process-2  video.py(inference:246) >> frame 0, loop time = 1.546s, input FPS = 20.000, output FPS = 0.647
+2023-05-31 22:37:39,730 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:39,735 [INFO]: Process-2  video.py(inference:246) >> frame 1, loop time = 1.125s, input FPS = 20.000, output FPS = 0.889
+2023-05-31 22:37:40,460 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:40,466 [INFO]: Process-2  video.py(inference:246) >> frame 2, loop time = 0.729s, input FPS = 20.000, output FPS = 1.372
+2023-05-31 22:37:39,730 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:39,735 [INFO]: Process-2  video.py(inference:246) >> frame 1, loop time = 1.125s, input FPS = 20.000, output FPS = 0.889
+2023-05-31 22:37:40,460 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:40,466 [INFO]: Process-2  video.py(inference:246) >> frame 2, loop time = 0.729s, input FPS = 20.000, output FPS = 1.372
+2023-05-31 22:37:41,333 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:41,337 [INFO]: Process-2  video.py(inference:246) >> frame 3, loop time = 0.869s, input FPS = 20.000, output FPS = 1.151
+2023-05-31 22:37:41,333 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:41,337 [INFO]: Process-2  video.py(inference:246) >> frame 3, loop time = 0.869s, input FPS = 20.000, output FPS = 1.151
+2023-05-31 22:37:42,048 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:42,054 [INFO]: Process-2  video.py(inference:246) >> frame 4, loop time = 0.715s, input FPS = 20.000, output FPS = 1.398
+2023-05-31 22:37:42,048 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:42,054 [INFO]: Process-2  video.py(inference:246) >> frame 4, loop time = 0.715s, input FPS = 20.000, output FPS = 1.398
+2023-05-31 22:37:42,623 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:42,628 [INFO]: Process-2  video.py(inference:246) >> frame 5, loop time = 0.573s, input FPS = 20.000, output FPS = 1.747
+2023-05-31 22:37:43,466 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:43,472 [INFO]: Process-2  video.py(inference:246) >> frame 6, loop time = 0.842s, input FPS = 20.000, output FPS = 1.187
+2023-05-31 22:37:42,623 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:42,628 [INFO]: Process-2  video.py(inference:246) >> frame 5, loop time = 0.573s, input FPS = 20.000, output FPS = 1.747
+2023-05-31 22:37:43,466 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:43,472 [INFO]: Process-2  video.py(inference:246) >> frame 6, loop time = 0.842s, input FPS = 20.000, output FPS = 1.187
+2023-05-31 22:37:44,469 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:44,479 [INFO]: Process-2  video.py(inference:246) >> frame 7, loop time = 1.006s, input FPS = 20.000, output FPS = 0.994
+2023-05-31 22:37:44,469 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:44,479 [INFO]: Process-2  video.py(inference:246) >> frame 7, loop time = 1.006s, input FPS = 20.000, output FPS = 0.994
+2023-05-31 22:37:45,319 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:45,324 [INFO]: Process-2  video.py(inference:246) >> frame 8, loop time = 0.838s, input FPS = 20.000, output FPS = 1.193
+2023-05-31 22:37:45,319 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:37:45,324 [INFO]: Process-2  video.py(inference:246) >> frame 8, loop time = 0.838s, input FPS = 20.000, output FPS = 1.193
+2023-05-31 22:37:45,991 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:37:46,020 [INFO]: Process-2  video.py(inference:246) >> frame 9, loop time = 0.694s, input FPS = 20.000, output FPS = 1.442
+2023-05-31 22:37:45,991 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:37:46,020 [INFO]: Process-2  video.py(inference:246) >> frame 9, loop time = 0.694s, input FPS = 20.000, output FPS = 1.442
+2023-05-31 22:37:46,658 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:37:46,666 [INFO]: Process-2  video.py(inference:246) >> frame 10, loop time = 0.641s, input FPS = 20.000, output FPS = 1.560
+2023-05-31 22:37:47,141 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:37:47,148 [INFO]: Process-2  video.py(inference:246) >> frame 11, loop time = 0.481s, input FPS = 20.000, output FPS = 2.077
+2023-05-31 22:37:46,658 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:37:46,666 [INFO]: Process-2  video.py(inference:246) >> frame 10, loop time = 0.641s, input FPS = 20.000, output FPS = 1.560
+2023-05-31 22:37:47,141 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:37:47,148 [INFO]: Process-2  video.py(inference:246) >> frame 11, loop time = 0.481s, input FPS = 20.000, output FPS = 2.077
+2023-05-31 22:37:47,662 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:37:47,671 [INFO]: Process-2  video.py(inference:246) >> frame 12, loop time = 0.521s, input FPS = 20.000, output FPS = 1.918
+2023-05-31 22:37:48,215 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:37:48,223 [INFO]: Process-2  video.py(inference:246) >> frame 13, loop time = 0.552s, input FPS = 20.000, output FPS = 1.813
+2023-05-31 22:37:47,662 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:37:47,671 [INFO]: Process-2  video.py(inference:246) >> frame 12, loop time = 0.521s, input FPS = 20.000, output FPS = 1.918
+2023-05-31 22:37:48,215 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:37:48,223 [INFO]: Process-2  video.py(inference:246) >> frame 13, loop time = 0.552s, input FPS = 20.000, output FPS = 1.813
+2023-05-31 22:37:48,745 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:37:48,753 [INFO]: Process-2  video.py(inference:246) >> frame 14, loop time = 0.528s, input FPS = 20.000, output FPS = 1.893
+2023-05-31 22:37:49,361 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:49,369 [INFO]: Process-2  video.py(inference:246) >> frame 15, loop time = 0.615s, input FPS = 20.000, output FPS = 1.626
+2023-05-31 22:37:48,745 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:37:48,753 [INFO]: Process-2  video.py(inference:246) >> frame 14, loop time = 0.528s, input FPS = 20.000, output FPS = 1.893
+2023-05-31 22:37:49,361 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:49,369 [INFO]: Process-2  video.py(inference:246) >> frame 15, loop time = 0.615s, input FPS = 20.000, output FPS = 1.626
+2023-05-31 22:37:49,951 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:37:49,961 [INFO]: Process-2  video.py(inference:246) >> frame 16, loop time = 0.591s, input FPS = 20.000, output FPS = 1.693
+2023-05-31 22:37:49,951 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:37:49,961 [INFO]: Process-2  video.py(inference:246) >> frame 16, loop time = 0.591s, input FPS = 20.000, output FPS = 1.693
+2023-05-31 22:37:50,599 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:50,611 [INFO]: Process-2  video.py(inference:246) >> frame 17, loop time = 0.649s, input FPS = 20.000, output FPS = 1.541
+2023-05-31 22:37:51,274 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:51,284 [INFO]: Process-2  video.py(inference:246) >> frame 18, loop time = 0.671s, input FPS = 20.000, output FPS = 1.489
+2023-05-31 22:37:50,599 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:50,611 [INFO]: Process-2  video.py(inference:246) >> frame 17, loop time = 0.649s, input FPS = 20.000, output FPS = 1.541
+2023-05-31 22:37:51,274 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:51,284 [INFO]: Process-2  video.py(inference:246) >> frame 18, loop time = 0.671s, input FPS = 20.000, output FPS = 1.489
+2023-05-31 22:37:51,822 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:51,831 [INFO]: Process-2  video.py(inference:246) >> frame 19, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:37:52,348 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:52,356 [INFO]: Process-2  video.py(inference:246) >> frame 20, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:37:51,822 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:51,831 [INFO]: Process-2  video.py(inference:246) >> frame 19, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:37:52,348 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:52,356 [INFO]: Process-2  video.py(inference:246) >> frame 20, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:37:52,893 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:52,901 [INFO]: Process-2  video.py(inference:246) >> frame 21, loop time = 0.545s, input FPS = 20.000, output FPS = 1.836
+2023-05-31 22:37:53,476 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:53,487 [INFO]: Process-2  video.py(inference:246) >> frame 22, loop time = 0.584s, input FPS = 20.000, output FPS = 1.713
+2023-05-31 22:37:52,893 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:52,901 [INFO]: Process-2  video.py(inference:246) >> frame 21, loop time = 0.545s, input FPS = 20.000, output FPS = 1.836
+2023-05-31 22:37:53,476 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:53,487 [INFO]: Process-2  video.py(inference:246) >> frame 22, loop time = 0.584s, input FPS = 20.000, output FPS = 1.713
+2023-05-31 22:37:54,055 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:54,064 [INFO]: Process-2  video.py(inference:246) >> frame 23, loop time = 0.576s, input FPS = 20.000, output FPS = 1.735
+2023-05-31 22:37:54,055 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:54,064 [INFO]: Process-2  video.py(inference:246) >> frame 23, loop time = 0.576s, input FPS = 20.000, output FPS = 1.735
+2023-05-31 22:37:54,561 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:54,570 [INFO]: Process-2  video.py(inference:246) >> frame 24, loop time = 0.504s, input FPS = 20.000, output FPS = 1.982
+2023-05-31 22:37:55,061 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:55,069 [INFO]: Process-2  video.py(inference:246) >> frame 25, loop time = 0.498s, input FPS = 20.000, output FPS = 2.008
+2023-05-31 22:37:54,561 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:54,570 [INFO]: Process-2  video.py(inference:246) >> frame 24, loop time = 0.504s, input FPS = 20.000, output FPS = 1.982
+2023-05-31 22:37:55,061 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:55,069 [INFO]: Process-2  video.py(inference:246) >> frame 25, loop time = 0.498s, input FPS = 20.000, output FPS = 2.008
+2023-05-31 22:37:55,654 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:55,662 [INFO]: Process-2  video.py(inference:246) >> frame 26, loop time = 0.592s, input FPS = 20.000, output FPS = 1.690
+2023-05-31 22:37:56,197 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:56,207 [INFO]: Process-2  video.py(inference:246) >> frame 27, loop time = 0.543s, input FPS = 20.000, output FPS = 1.840
+2023-05-31 22:37:55,654 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:55,662 [INFO]: Process-2  video.py(inference:246) >> frame 26, loop time = 0.592s, input FPS = 20.000, output FPS = 1.690
+2023-05-31 22:37:56,197 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:56,207 [INFO]: Process-2  video.py(inference:246) >> frame 27, loop time = 0.543s, input FPS = 20.000, output FPS = 1.840
+2023-05-31 22:37:56,751 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:56,759 [INFO]: Process-2  video.py(inference:246) >> frame 28, loop time = 0.551s, input FPS = 20.000, output FPS = 1.814
+2023-05-31 22:37:57,279 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:57,288 [INFO]: Process-2  video.py(inference:246) >> frame 29, loop time = 0.527s, input FPS = 20.000, output FPS = 1.897
+2023-05-31 22:37:56,751 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:56,759 [INFO]: Process-2  video.py(inference:246) >> frame 28, loop time = 0.551s, input FPS = 20.000, output FPS = 1.814
+2023-05-31 22:37:57,279 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:37:57,288 [INFO]: Process-2  video.py(inference:246) >> frame 29, loop time = 0.527s, input FPS = 20.000, output FPS = 1.897
+2023-05-31 22:37:57,799 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:37:57,810 [INFO]: Process-2  video.py(inference:246) >> frame 30, loop time = 0.521s, input FPS = 20.000, output FPS = 1.921
+2023-05-31 22:37:58,350 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:58,361 [INFO]: Process-2  video.py(inference:246) >> frame 31, loop time = 0.550s, input FPS = 20.000, output FPS = 1.820
+2023-05-31 22:37:57,799 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:37:57,810 [INFO]: Process-2  video.py(inference:246) >> frame 30, loop time = 0.521s, input FPS = 20.000, output FPS = 1.921
+2023-05-31 22:37:58,350 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:58,361 [INFO]: Process-2  video.py(inference:246) >> frame 31, loop time = 0.550s, input FPS = 20.000, output FPS = 1.820
+2023-05-31 22:37:58,892 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:58,900 [INFO]: Process-2  video.py(inference:246) >> frame 32, loop time = 0.538s, input FPS = 20.000, output FPS = 1.859
+2023-05-31 22:37:59,427 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:59,435 [INFO]: Process-2  video.py(inference:246) >> frame 33, loop time = 0.533s, input FPS = 20.000, output FPS = 1.875
+2023-05-31 22:37:58,892 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:58,900 [INFO]: Process-2  video.py(inference:246) >> frame 32, loop time = 0.538s, input FPS = 20.000, output FPS = 1.859
+2023-05-31 22:37:59,427 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:37:59,435 [INFO]: Process-2  video.py(inference:246) >> frame 33, loop time = 0.533s, input FPS = 20.000, output FPS = 1.875
+2023-05-31 22:38:00,029 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:00,039 [INFO]: Process-2  video.py(inference:246) >> frame 34, loop time = 0.603s, input FPS = 20.000, output FPS = 1.659
+2023-05-31 22:38:00,029 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:00,039 [INFO]: Process-2  video.py(inference:246) >> frame 34, loop time = 0.603s, input FPS = 20.000, output FPS = 1.659
+2023-05-31 22:38:00,610 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:00,626 [INFO]: Process-2  video.py(inference:246) >> frame 35, loop time = 0.585s, input FPS = 20.000, output FPS = 1.710
+2023-05-31 22:38:01,356 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:01,381 [INFO]: Process-2  video.py(inference:246) >> frame 36, loop time = 0.748s, input FPS = 20.000, output FPS = 1.336
+2023-05-31 22:38:00,610 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:00,626 [INFO]: Process-2  video.py(inference:246) >> frame 35, loop time = 0.585s, input FPS = 20.000, output FPS = 1.710
+2023-05-31 22:38:01,356 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:01,381 [INFO]: Process-2  video.py(inference:246) >> frame 36, loop time = 0.748s, input FPS = 20.000, output FPS = 1.336
+2023-05-31 22:38:02,019 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:02,028 [INFO]: Process-2  video.py(inference:246) >> frame 37, loop time = 0.645s, input FPS = 20.000, output FPS = 1.550
+2023-05-31 22:38:02,549 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:02,558 [INFO]: Process-2  video.py(inference:246) >> frame 38, loop time = 0.529s, input FPS = 20.000, output FPS = 1.890
+2023-05-31 22:38:02,019 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:02,028 [INFO]: Process-2  video.py(inference:246) >> frame 37, loop time = 0.645s, input FPS = 20.000, output FPS = 1.550
+2023-05-31 22:38:02,549 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:02,558 [INFO]: Process-2  video.py(inference:246) >> frame 38, loop time = 0.529s, input FPS = 20.000, output FPS = 1.890
+2023-05-31 22:38:03,131 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:03,142 [INFO]: Process-2  video.py(inference:246) >> frame 39, loop time = 0.583s, input FPS = 20.000, output FPS = 1.716
+2023-05-31 22:38:03,131 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:03,142 [INFO]: Process-2  video.py(inference:246) >> frame 39, loop time = 0.583s, input FPS = 20.000, output FPS = 1.716
+2023-05-31 22:38:03,691 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:03,701 [INFO]: Process-2  video.py(inference:246) >> frame 40, loop time = 0.557s, input FPS = 20.000, output FPS = 1.794
+2023-05-31 22:38:04,269 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:04,278 [INFO]: Process-2  video.py(inference:246) >> frame 41, loop time = 0.577s, input FPS = 20.000, output FPS = 1.734
+2023-05-31 22:38:03,691 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:03,701 [INFO]: Process-2  video.py(inference:246) >> frame 40, loop time = 0.557s, input FPS = 20.000, output FPS = 1.794
+2023-05-31 22:38:04,269 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:04,278 [INFO]: Process-2  video.py(inference:246) >> frame 41, loop time = 0.577s, input FPS = 20.000, output FPS = 1.734
+2023-05-31 22:38:04,821 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:04,832 [INFO]: Process-2  video.py(inference:246) >> frame 42, loop time = 0.552s, input FPS = 20.000, output FPS = 1.812
+2023-05-31 22:38:05,348 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:05,357 [INFO]: Process-2  video.py(inference:246) >> frame 43, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:38:04,821 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:04,832 [INFO]: Process-2  video.py(inference:246) >> frame 42, loop time = 0.552s, input FPS = 20.000, output FPS = 1.812
+2023-05-31 22:38:05,348 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:05,357 [INFO]: Process-2  video.py(inference:246) >> frame 43, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:38:05,865 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:05,872 [INFO]: Process-2  video.py(inference:246) >> frame 44, loop time = 0.515s, input FPS = 20.000, output FPS = 1.943
+2023-05-31 22:38:06,417 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:06,428 [INFO]: Process-2  video.py(inference:246) >> frame 45, loop time = 0.554s, input FPS = 20.000, output FPS = 1.804
+2023-05-31 22:38:05,865 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:05,872 [INFO]: Process-2  video.py(inference:246) >> frame 44, loop time = 0.515s, input FPS = 20.000, output FPS = 1.943
+2023-05-31 22:38:06,417 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:06,428 [INFO]: Process-2  video.py(inference:246) >> frame 45, loop time = 0.554s, input FPS = 20.000, output FPS = 1.804
+2023-05-31 22:38:06,960 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:06,969 [INFO]: Process-2  video.py(inference:246) >> frame 46, loop time = 0.539s, input FPS = 20.000, output FPS = 1.856
+2023-05-31 22:38:07,478 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:07,504 [INFO]: Process-2  video.py(inference:246) >> frame 47, loop time = 0.530s, input FPS = 20.000, output FPS = 1.886
+2023-05-31 22:38:06,960 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:06,969 [INFO]: Process-2  video.py(inference:246) >> frame 46, loop time = 0.539s, input FPS = 20.000, output FPS = 1.856
+2023-05-31 22:38:07,478 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:07,504 [INFO]: Process-2  video.py(inference:246) >> frame 47, loop time = 0.530s, input FPS = 20.000, output FPS = 1.886
+2023-05-31 22:38:08,042 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:08,049 [INFO]: Process-2  video.py(inference:246) >> frame 48, loop time = 0.543s, input FPS = 20.000, output FPS = 1.841
+2023-05-31 22:38:08,549 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:08,559 [INFO]: Process-2  video.py(inference:246) >> frame 49, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:38:08,042 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:08,049 [INFO]: Process-2  video.py(inference:246) >> frame 48, loop time = 0.543s, input FPS = 20.000, output FPS = 1.841
+2023-05-31 22:38:08,549 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:08,559 [INFO]: Process-2  video.py(inference:246) >> frame 49, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:38:09,097 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:09,105 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:38:09,107 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 1
+2023-05-31 22:38:09,208 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_223809_None_openpifpaf_1.jpg
+2023-05-31 22:38:09,210 [INFO]: Process-2  video.py(inference:246) >> frame 50, loop time = 0.649s, input FPS = 20.000, output FPS = 1.541
+2023-05-31 22:38:09,097 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:09,105 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:38:09,107 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 1
+2023-05-31 22:38:09,208 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_223809_None_openpifpaf_1.jpg
+2023-05-31 22:38:09,210 [INFO]: Process-2  video.py(inference:246) >> frame 50, loop time = 0.649s, input FPS = 20.000, output FPS = 1.541
+2023-05-31 22:38:09,797 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:09,807 [INFO]: Process-2  video.py(inference:246) >> frame 51, loop time = 0.595s, input FPS = 20.000, output FPS = 1.681
+2023-05-31 22:38:10,310 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:10,319 [INFO]: Process-2  video.py(inference:246) >> frame 52, loop time = 0.511s, input FPS = 20.000, output FPS = 1.956
+2023-05-31 22:38:09,797 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:09,807 [INFO]: Process-2  video.py(inference:246) >> frame 51, loop time = 0.595s, input FPS = 20.000, output FPS = 1.681
+2023-05-31 22:38:10,310 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:10,319 [INFO]: Process-2  video.py(inference:246) >> frame 52, loop time = 0.511s, input FPS = 20.000, output FPS = 1.956
+2023-05-31 22:38:10,963 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:10,974 [INFO]: Process-2  video.py(inference:246) >> frame 53, loop time = 0.653s, input FPS = 20.000, output FPS = 1.531
+2023-05-31 22:38:10,963 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:10,974 [INFO]: Process-2  video.py(inference:246) >> frame 53, loop time = 0.653s, input FPS = 20.000, output FPS = 1.531
+2023-05-31 22:38:11,682 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:11,691 [INFO]: Process-2  video.py(inference:246) >> frame 54, loop time = 0.716s, input FPS = 20.000, output FPS = 1.396
+2023-05-31 22:38:12,347 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:38:12,357 [INFO]: Process-2  video.py(inference:246) >> frame 55, loop time = 0.664s, input FPS = 20.000, output FPS = 1.506
+2023-05-31 22:38:11,682 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:11,691 [INFO]: Process-2  video.py(inference:246) >> frame 54, loop time = 0.716s, input FPS = 20.000, output FPS = 1.396
+2023-05-31 22:38:12,347 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:38:12,357 [INFO]: Process-2  video.py(inference:246) >> frame 55, loop time = 0.664s, input FPS = 20.000, output FPS = 1.506
+2023-05-31 22:38:12,945 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:12,950 [INFO]: Process-2  video.py(inference:246) >> frame 56, loop time = 0.592s, input FPS = 20.000, output FPS = 1.689
+2023-05-31 22:38:13,520 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:13,525 [INFO]: Process-2  video.py(inference:246) >> frame 57, loop time = 0.574s, input FPS = 20.000, output FPS = 1.743
+2023-05-31 22:38:12,945 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:12,950 [INFO]: Process-2  video.py(inference:246) >> frame 56, loop time = 0.592s, input FPS = 20.000, output FPS = 1.689
+2023-05-31 22:38:13,520 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:13,525 [INFO]: Process-2  video.py(inference:246) >> frame 57, loop time = 0.574s, input FPS = 20.000, output FPS = 1.743
+2023-05-31 22:38:14,118 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:14,122 [INFO]: Process-2  video.py(inference:246) >> frame 58, loop time = 0.596s, input FPS = 20.000, output FPS = 1.678
+2023-05-31 22:38:14,118 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:14,122 [INFO]: Process-2  video.py(inference:246) >> frame 58, loop time = 0.596s, input FPS = 20.000, output FPS = 1.678
+2023-05-31 22:38:14,705 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:14,715 [INFO]: Process-2  video.py(inference:246) >> frame 59, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:38:15,254 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:15,262 [INFO]: Process-2  video.py(inference:246) >> frame 60, loop time = 0.545s, input FPS = 20.000, output FPS = 1.833
+2023-05-31 22:38:14,705 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:14,715 [INFO]: Process-2  video.py(inference:246) >> frame 59, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:38:15,254 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:15,262 [INFO]: Process-2  video.py(inference:246) >> frame 60, loop time = 0.545s, input FPS = 20.000, output FPS = 1.833
+2023-05-31 22:38:15,795 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:38:15,803 [INFO]: Process-2  video.py(inference:246) >> frame 61, loop time = 0.540s, input FPS = 20.000, output FPS = 1.850
+2023-05-31 22:38:16,315 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:16,325 [INFO]: Process-2  video.py(inference:246) >> frame 62, loop time = 0.520s, input FPS = 20.000, output FPS = 1.923
+2023-05-31 22:38:15,795 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:38:15,803 [INFO]: Process-2  video.py(inference:246) >> frame 61, loop time = 0.540s, input FPS = 20.000, output FPS = 1.850
+2023-05-31 22:38:16,315 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:16,325 [INFO]: Process-2  video.py(inference:246) >> frame 62, loop time = 0.520s, input FPS = 20.000, output FPS = 1.923
+2023-05-31 22:38:16,951 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:16,959 [INFO]: Process-2  video.py(inference:246) >> frame 63, loop time = 0.633s, input FPS = 20.000, output FPS = 1.579
+2023-05-31 22:38:17,636 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:17,646 [INFO]: Process-2  video.py(inference:246) >> frame 64, loop time = 0.686s, input FPS = 20.000, output FPS = 1.458
+2023-05-31 22:38:16,951 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:16,959 [INFO]: Process-2  video.py(inference:246) >> frame 63, loop time = 0.633s, input FPS = 20.000, output FPS = 1.579
+2023-05-31 22:38:17,636 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:17,646 [INFO]: Process-2  video.py(inference:246) >> frame 64, loop time = 0.686s, input FPS = 20.000, output FPS = 1.458
+2023-05-31 22:38:18,288 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:18,296 [INFO]: Process-2  video.py(inference:246) >> frame 65, loop time = 0.649s, input FPS = 20.000, output FPS = 1.542
+2023-05-31 22:38:18,288 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:18,296 [INFO]: Process-2  video.py(inference:246) >> frame 65, loop time = 0.649s, input FPS = 20.000, output FPS = 1.542
+2023-05-31 22:38:18,795 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:18,804 [INFO]: Process-2  video.py(inference:246) >> frame 66, loop time = 0.506s, input FPS = 20.000, output FPS = 1.975
+2023-05-31 22:38:19,294 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:19,302 [INFO]: Process-2  video.py(inference:246) >> frame 67, loop time = 0.498s, input FPS = 20.000, output FPS = 2.010
+2023-05-31 22:38:18,795 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:18,804 [INFO]: Process-2  video.py(inference:246) >> frame 66, loop time = 0.506s, input FPS = 20.000, output FPS = 1.975
+2023-05-31 22:38:19,294 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:19,302 [INFO]: Process-2  video.py(inference:246) >> frame 67, loop time = 0.498s, input FPS = 20.000, output FPS = 2.010
+2023-05-31 22:38:19,819 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:19,827 [INFO]: Process-2  video.py(inference:246) >> frame 68, loop time = 0.524s, input FPS = 20.000, output FPS = 1.909
+2023-05-31 22:38:20,353 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:20,362 [INFO]: Process-2  video.py(inference:246) >> frame 69, loop time = 0.534s, input FPS = 20.000, output FPS = 1.874
+2023-05-31 22:38:19,819 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:19,827 [INFO]: Process-2  video.py(inference:246) >> frame 68, loop time = 0.524s, input FPS = 20.000, output FPS = 1.909
+2023-05-31 22:38:20,353 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:20,362 [INFO]: Process-2  video.py(inference:246) >> frame 69, loop time = 0.534s, input FPS = 20.000, output FPS = 1.874
+2023-05-31 22:38:20,937 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:20,947 [INFO]: Process-2  video.py(inference:246) >> frame 70, loop time = 0.583s, input FPS = 20.000, output FPS = 1.715
+2023-05-31 22:38:21,464 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:21,473 [INFO]: Process-2  video.py(inference:246) >> frame 71, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:38:20,937 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:20,947 [INFO]: Process-2  video.py(inference:246) >> frame 70, loop time = 0.583s, input FPS = 20.000, output FPS = 1.715
+2023-05-31 22:38:21,464 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:21,473 [INFO]: Process-2  video.py(inference:246) >> frame 71, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:38:22,144 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:22,152 [INFO]: Process-2  video.py(inference:246) >> frame 72, loop time = 0.678s, input FPS = 20.000, output FPS = 1.474
+2023-05-31 22:38:22,144 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:22,152 [INFO]: Process-2  video.py(inference:246) >> frame 72, loop time = 0.678s, input FPS = 20.000, output FPS = 1.474
+2023-05-31 22:38:22,681 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:22,691 [INFO]: Process-2  video.py(inference:246) >> frame 73, loop time = 0.538s, input FPS = 20.000, output FPS = 1.860
+2023-05-31 22:38:23,203 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:23,214 [INFO]: Process-2  video.py(inference:246) >> frame 74, loop time = 0.522s, input FPS = 20.000, output FPS = 1.915
+2023-05-31 22:38:22,681 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:22,691 [INFO]: Process-2  video.py(inference:246) >> frame 73, loop time = 0.538s, input FPS = 20.000, output FPS = 1.860
+2023-05-31 22:38:23,203 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:23,214 [INFO]: Process-2  video.py(inference:246) >> frame 74, loop time = 0.522s, input FPS = 20.000, output FPS = 1.915
+2023-05-31 22:38:23,708 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:23,717 [INFO]: Process-2  video.py(inference:246) >> frame 75, loop time = 0.501s, input FPS = 20.000, output FPS = 1.996
+2023-05-31 22:38:24,265 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:24,277 [INFO]: Process-2  video.py(inference:246) >> frame 76, loop time = 0.558s, input FPS = 20.000, output FPS = 1.793
+2023-05-31 22:38:23,708 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:23,717 [INFO]: Process-2  video.py(inference:246) >> frame 75, loop time = 0.501s, input FPS = 20.000, output FPS = 1.996
+2023-05-31 22:38:24,265 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:24,277 [INFO]: Process-2  video.py(inference:246) >> frame 76, loop time = 0.558s, input FPS = 20.000, output FPS = 1.793
+2023-05-31 22:38:24,911 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:24,916 [INFO]: Process-2  video.py(inference:246) >> frame 77, loop time = 0.638s, input FPS = 20.000, output FPS = 1.568
+2023-05-31 22:38:25,496 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:25,501 [INFO]: Process-2  video.py(inference:246) >> frame 78, loop time = 0.582s, input FPS = 20.000, output FPS = 1.717
+2023-05-31 22:38:24,911 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:24,916 [INFO]: Process-2  video.py(inference:246) >> frame 77, loop time = 0.638s, input FPS = 20.000, output FPS = 1.568
+2023-05-31 22:38:25,496 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:25,501 [INFO]: Process-2  video.py(inference:246) >> frame 78, loop time = 0.582s, input FPS = 20.000, output FPS = 1.717
+2023-05-31 22:38:26,158 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:26,163 [INFO]: Process-2  video.py(inference:246) >> frame 79, loop time = 0.660s, input FPS = 20.000, output FPS = 1.515
+2023-05-31 22:38:26,158 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:26,163 [INFO]: Process-2  video.py(inference:246) >> frame 79, loop time = 0.660s, input FPS = 20.000, output FPS = 1.515
+2023-05-31 22:38:26,874 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:26,879 [INFO]: Process-2  video.py(inference:246) >> frame 80, loop time = 0.715s, input FPS = 20.000, output FPS = 1.399
+2023-05-31 22:38:27,487 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:27,492 [INFO]: Process-2  video.py(inference:246) >> frame 81, loop time = 0.612s, input FPS = 20.000, output FPS = 1.635
+2023-05-31 22:38:26,874 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:26,879 [INFO]: Process-2  video.py(inference:246) >> frame 80, loop time = 0.715s, input FPS = 20.000, output FPS = 1.399
+2023-05-31 22:38:27,487 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:27,492 [INFO]: Process-2  video.py(inference:246) >> frame 81, loop time = 0.612s, input FPS = 20.000, output FPS = 1.635
+2023-05-31 22:38:28,150 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:28,155 [INFO]: Process-2  video.py(inference:246) >> frame 82, loop time = 0.662s, input FPS = 20.000, output FPS = 1.511
+2023-05-31 22:38:28,150 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:28,155 [INFO]: Process-2  video.py(inference:246) >> frame 82, loop time = 0.662s, input FPS = 20.000, output FPS = 1.511
+2023-05-31 22:38:28,727 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:28,737 [INFO]: Process-2  video.py(inference:246) >> frame 83, loop time = 0.577s, input FPS = 20.000, output FPS = 1.732
+2023-05-31 22:38:29,311 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:29,315 [INFO]: Process-2  video.py(inference:246) >> frame 84, loop time = 0.577s, input FPS = 20.000, output FPS = 1.734
+2023-05-31 22:38:28,727 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:28,737 [INFO]: Process-2  video.py(inference:246) >> frame 83, loop time = 0.577s, input FPS = 20.000, output FPS = 1.732
+2023-05-31 22:38:29,311 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:29,315 [INFO]: Process-2  video.py(inference:246) >> frame 84, loop time = 0.577s, input FPS = 20.000, output FPS = 1.734
+2023-05-31 22:38:29,809 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:29,814 [INFO]: Process-2  video.py(inference:246) >> frame 85, loop time = 0.498s, input FPS = 20.000, output FPS = 2.010
+2023-05-31 22:38:30,305 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:30,309 [INFO]: Process-2  video.py(inference:246) >> frame 86, loop time = 0.494s, input FPS = 20.000, output FPS = 2.024
+2023-05-31 22:38:29,809 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:29,814 [INFO]: Process-2  video.py(inference:246) >> frame 85, loop time = 0.498s, input FPS = 20.000, output FPS = 2.010
+2023-05-31 22:38:30,305 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:30,309 [INFO]: Process-2  video.py(inference:246) >> frame 86, loop time = 0.494s, input FPS = 20.000, output FPS = 2.024
+2023-05-31 22:38:30,873 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:30,878 [INFO]: Process-2  video.py(inference:246) >> frame 87, loop time = 0.567s, input FPS = 20.000, output FPS = 1.764
+2023-05-31 22:38:31,381 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:31,391 [INFO]: Process-2  video.py(inference:246) >> frame 88, loop time = 0.511s, input FPS = 20.000, output FPS = 1.955
+2023-05-31 22:38:30,873 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:30,878 [INFO]: Process-2  video.py(inference:246) >> frame 87, loop time = 0.567s, input FPS = 20.000, output FPS = 1.764
+2023-05-31 22:38:31,381 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:31,391 [INFO]: Process-2  video.py(inference:246) >> frame 88, loop time = 0.511s, input FPS = 20.000, output FPS = 1.955
+2023-05-31 22:38:31,916 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:31,924 [INFO]: Process-2  video.py(inference:246) >> frame 89, loop time = 0.532s, input FPS = 20.000, output FPS = 1.878
+2023-05-31 22:38:32,632 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:32,638 [INFO]: Process-2  video.py(inference:246) >> frame 90, loop time = 0.712s, input FPS = 20.000, output FPS = 1.405
+2023-05-31 22:38:31,916 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:38:31,924 [INFO]: Process-2  video.py(inference:246) >> frame 89, loop time = 0.532s, input FPS = 20.000, output FPS = 1.878
+2023-05-31 22:38:32,632 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:38:32,638 [INFO]: Process-2  video.py(inference:246) >> frame 90, loop time = 0.712s, input FPS = 20.000, output FPS = 1.405
+2023-05-31 22:38:33,247 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:33,257 [INFO]: Process-2  video.py(inference:246) >> frame 91, loop time = 0.617s, input FPS = 20.000, output FPS = 1.620
+2023-05-31 22:38:33,247 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:33,257 [INFO]: Process-2  video.py(inference:246) >> frame 91, loop time = 0.617s, input FPS = 20.000, output FPS = 1.620
+2023-05-31 22:38:33,844 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:33,853 [INFO]: Process-2  video.py(inference:246) >> frame 92, loop time = 0.595s, input FPS = 20.000, output FPS = 1.682
+2023-05-31 22:38:34,428 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:34,447 [INFO]: Process-2  video.py(inference:246) >> frame 93, loop time = 0.592s, input FPS = 20.000, output FPS = 1.690
+2023-05-31 22:38:33,844 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:33,853 [INFO]: Process-2  video.py(inference:246) >> frame 92, loop time = 0.595s, input FPS = 20.000, output FPS = 1.682
+2023-05-31 22:38:34,428 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:34,447 [INFO]: Process-2  video.py(inference:246) >> frame 93, loop time = 0.592s, input FPS = 20.000, output FPS = 1.690
+2023-05-31 22:38:35,060 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:35,070 [INFO]: Process-2  video.py(inference:246) >> frame 94, loop time = 0.622s, input FPS = 20.000, output FPS = 1.608
+2023-05-31 22:38:35,600 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:35,611 [INFO]: Process-2  video.py(inference:246) >> frame 95, loop time = 0.539s, input FPS = 20.000, output FPS = 1.854
+2023-05-31 22:38:35,060 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:35,070 [INFO]: Process-2  video.py(inference:246) >> frame 94, loop time = 0.622s, input FPS = 20.000, output FPS = 1.608
+2023-05-31 22:38:35,600 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:35,611 [INFO]: Process-2  video.py(inference:246) >> frame 95, loop time = 0.539s, input FPS = 20.000, output FPS = 1.854
+2023-05-31 22:38:36,218 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:36,227 [INFO]: Process-2  video.py(inference:246) >> frame 96, loop time = 0.615s, input FPS = 20.000, output FPS = 1.626
+2023-05-31 22:38:36,218 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:36,227 [INFO]: Process-2  video.py(inference:246) >> frame 96, loop time = 0.615s, input FPS = 20.000, output FPS = 1.626
+2023-05-31 22:38:36,775 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:36,785 [INFO]: Process-2  video.py(inference:246) >> frame 97, loop time = 0.557s, input FPS = 20.000, output FPS = 1.797
+2023-05-31 22:38:37,303 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:37,311 [INFO]: Process-2  video.py(inference:246) >> frame 98, loop time = 0.525s, input FPS = 20.000, output FPS = 1.904
+2023-05-31 22:38:36,775 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:36,785 [INFO]: Process-2  video.py(inference:246) >> frame 97, loop time = 0.557s, input FPS = 20.000, output FPS = 1.797
+2023-05-31 22:38:37,303 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:38:37,311 [INFO]: Process-2  video.py(inference:246) >> frame 98, loop time = 0.525s, input FPS = 20.000, output FPS = 1.904
+2023-05-31 22:38:37,829 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:37,838 [INFO]: Process-2  video.py(inference:246) >> frame 99, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:38:38,335 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:38,343 [INFO]: Process-2  video.py(inference:246) >> frame 100, loop time = 0.504s, input FPS = 20.000, output FPS = 1.983
+2023-05-31 22:38:37,829 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:37,838 [INFO]: Process-2  video.py(inference:246) >> frame 99, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:38:38,335 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:38,343 [INFO]: Process-2  video.py(inference:246) >> frame 100, loop time = 0.504s, input FPS = 20.000, output FPS = 1.983
+2023-05-31 22:38:38,869 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:38,879 [INFO]: Process-2  video.py(inference:246) >> frame 101, loop time = 0.535s, input FPS = 20.000, output FPS = 1.870
+2023-05-31 22:38:39,394 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:39,402 [INFO]: Process-2  video.py(inference:246) >> frame 102, loop time = 0.522s, input FPS = 20.000, output FPS = 1.915
+2023-05-31 22:38:38,869 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:38,879 [INFO]: Process-2  video.py(inference:246) >> frame 101, loop time = 0.535s, input FPS = 20.000, output FPS = 1.870
+2023-05-31 22:38:39,394 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:39,402 [INFO]: Process-2  video.py(inference:246) >> frame 102, loop time = 0.522s, input FPS = 20.000, output FPS = 1.915
+2023-05-31 22:38:39,915 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:39,925 [INFO]: Process-2  video.py(inference:246) >> frame 103, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:38:40,451 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:40,468 [INFO]: Process-2  video.py(inference:246) >> frame 104, loop time = 0.540s, input FPS = 20.000, output FPS = 1.853
+2023-05-31 22:38:39,915 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:39,925 [INFO]: Process-2  video.py(inference:246) >> frame 103, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:38:40,451 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:40,468 [INFO]: Process-2  video.py(inference:246) >> frame 104, loop time = 0.540s, input FPS = 20.000, output FPS = 1.853
+2023-05-31 22:38:41,028 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:41,038 [INFO]: Process-2  video.py(inference:246) >> frame 105, loop time = 0.569s, input FPS = 20.000, output FPS = 1.758
+2023-05-31 22:38:41,617 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:41,625 [INFO]: Process-2  video.py(inference:246) >> frame 106, loop time = 0.586s, input FPS = 20.000, output FPS = 1.707
+2023-05-31 22:38:41,028 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:41,038 [INFO]: Process-2  video.py(inference:246) >> frame 105, loop time = 0.569s, input FPS = 20.000, output FPS = 1.758
+2023-05-31 22:38:41,617 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:41,625 [INFO]: Process-2  video.py(inference:246) >> frame 106, loop time = 0.586s, input FPS = 20.000, output FPS = 1.707
+2023-05-31 22:38:42,172 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:42,182 [INFO]: Process-2  video.py(inference:246) >> frame 107, loop time = 0.555s, input FPS = 20.000, output FPS = 1.802
+2023-05-31 22:38:42,172 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:42,182 [INFO]: Process-2  video.py(inference:246) >> frame 107, loop time = 0.555s, input FPS = 20.000, output FPS = 1.802
+2023-05-31 22:38:42,821 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:42,835 [INFO]: Process-2  video.py(inference:246) >> frame 108, loop time = 0.651s, input FPS = 20.000, output FPS = 1.535
+2023-05-31 22:38:43,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:43,379 [INFO]: Process-2  video.py(inference:246) >> frame 109, loop time = 0.543s, input FPS = 20.000, output FPS = 1.843
+2023-05-31 22:38:42,821 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:42,835 [INFO]: Process-2  video.py(inference:246) >> frame 108, loop time = 0.651s, input FPS = 20.000, output FPS = 1.535
+2023-05-31 22:38:43,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:43,379 [INFO]: Process-2  video.py(inference:246) >> frame 109, loop time = 0.543s, input FPS = 20.000, output FPS = 1.843
+2023-05-31 22:38:43,908 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:43,919 [INFO]: Process-2  video.py(inference:246) >> frame 110, loop time = 0.539s, input FPS = 20.000, output FPS = 1.855
+2023-05-31 22:38:44,452 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:44,461 [INFO]: Process-2  video.py(inference:246) >> frame 111, loop time = 0.541s, input FPS = 20.000, output FPS = 1.848
+2023-05-31 22:38:43,908 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:43,919 [INFO]: Process-2  video.py(inference:246) >> frame 110, loop time = 0.539s, input FPS = 20.000, output FPS = 1.855
+2023-05-31 22:38:44,452 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:44,461 [INFO]: Process-2  video.py(inference:246) >> frame 111, loop time = 0.541s, input FPS = 20.000, output FPS = 1.848
+2023-05-31 22:38:44,999 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:45,008 [INFO]: Process-2  video.py(inference:246) >> frame 112, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:38:45,556 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:45,564 [INFO]: Process-2  video.py(inference:246) >> frame 113, loop time = 0.555s, input FPS = 20.000, output FPS = 1.802
+2023-05-31 22:38:44,999 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:45,008 [INFO]: Process-2  video.py(inference:246) >> frame 112, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:38:45,556 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:45,564 [INFO]: Process-2  video.py(inference:246) >> frame 113, loop time = 0.555s, input FPS = 20.000, output FPS = 1.802
+2023-05-31 22:38:46,103 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:46,113 [INFO]: Process-2  video.py(inference:246) >> frame 114, loop time = 0.548s, input FPS = 20.000, output FPS = 1.826
+2023-05-31 22:38:46,681 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:46,691 [INFO]: Process-2  video.py(inference:246) >> frame 115, loop time = 0.576s, input FPS = 20.000, output FPS = 1.735
+2023-05-31 22:38:46,103 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:46,113 [INFO]: Process-2  video.py(inference:246) >> frame 114, loop time = 0.548s, input FPS = 20.000, output FPS = 1.826
+2023-05-31 22:38:46,681 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:46,691 [INFO]: Process-2  video.py(inference:246) >> frame 115, loop time = 0.576s, input FPS = 20.000, output FPS = 1.735
+2023-05-31 22:38:47,229 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:47,237 [INFO]: Process-2  video.py(inference:246) >> frame 116, loop time = 0.545s, input FPS = 20.000, output FPS = 1.836
+2023-05-31 22:38:47,229 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:47,237 [INFO]: Process-2  video.py(inference:246) >> frame 116, loop time = 0.545s, input FPS = 20.000, output FPS = 1.836
+2023-05-31 22:38:47,793 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:47,801 [INFO]: Process-2  video.py(inference:246) >> frame 117, loop time = 0.563s, input FPS = 20.000, output FPS = 1.776
+2023-05-31 22:38:48,304 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:48,313 [INFO]: Process-2  video.py(inference:246) >> frame 118, loop time = 0.511s, input FPS = 20.000, output FPS = 1.959
+2023-05-31 22:38:47,793 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:47,801 [INFO]: Process-2  video.py(inference:246) >> frame 117, loop time = 0.563s, input FPS = 20.000, output FPS = 1.776
+2023-05-31 22:38:48,304 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:48,313 [INFO]: Process-2  video.py(inference:246) >> frame 118, loop time = 0.511s, input FPS = 20.000, output FPS = 1.959
+2023-05-31 22:38:48,842 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:48,850 [INFO]: Process-2  video.py(inference:246) >> frame 119, loop time = 0.535s, input FPS = 20.000, output FPS = 1.868
+2023-05-31 22:38:49,355 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:49,365 [INFO]: Process-2  video.py(inference:246) >> frame 120, loop time = 0.514s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:38:48,842 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:48,850 [INFO]: Process-2  video.py(inference:246) >> frame 119, loop time = 0.535s, input FPS = 20.000, output FPS = 1.868
+2023-05-31 22:38:49,355 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:49,365 [INFO]: Process-2  video.py(inference:246) >> frame 120, loop time = 0.514s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:38:49,942 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:49,952 [INFO]: Process-2  video.py(inference:246) >> frame 121, loop time = 0.586s, input FPS = 20.000, output FPS = 1.706
+2023-05-31 22:38:50,472 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:50,480 [INFO]: Process-2  video.py(inference:246) >> frame 122, loop time = 0.527s, input FPS = 20.000, output FPS = 1.899
+2023-05-31 22:38:49,942 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:49,952 [INFO]: Process-2  video.py(inference:246) >> frame 121, loop time = 0.586s, input FPS = 20.000, output FPS = 1.706
+2023-05-31 22:38:50,472 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:50,480 [INFO]: Process-2  video.py(inference:246) >> frame 122, loop time = 0.527s, input FPS = 20.000, output FPS = 1.899
+2023-05-31 22:38:50,973 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:50,982 [INFO]: Process-2  video.py(inference:246) >> frame 123, loop time = 0.501s, input FPS = 20.000, output FPS = 1.996
+2023-05-31 22:38:51,520 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:51,530 [INFO]: Process-2  video.py(inference:246) >> frame 124, loop time = 0.547s, input FPS = 20.000, output FPS = 1.829
+2023-05-31 22:38:50,973 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:50,982 [INFO]: Process-2  video.py(inference:246) >> frame 123, loop time = 0.501s, input FPS = 20.000, output FPS = 1.996
+2023-05-31 22:38:51,520 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:51,530 [INFO]: Process-2  video.py(inference:246) >> frame 124, loop time = 0.547s, input FPS = 20.000, output FPS = 1.829
+2023-05-31 22:38:52,113 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:52,123 [INFO]: Process-2  video.py(inference:246) >> frame 125, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:38:52,655 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:52,665 [INFO]: Process-2  video.py(inference:246) >> frame 126, loop time = 0.541s, input FPS = 20.000, output FPS = 1.849
+2023-05-31 22:38:52,113 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:52,123 [INFO]: Process-2  video.py(inference:246) >> frame 125, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:38:52,655 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:52,665 [INFO]: Process-2  video.py(inference:246) >> frame 126, loop time = 0.541s, input FPS = 20.000, output FPS = 1.849
+2023-05-31 22:38:53,198 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:53,207 [INFO]: Process-2  video.py(inference:246) >> frame 127, loop time = 0.541s, input FPS = 20.000, output FPS = 1.849
+2023-05-31 22:38:53,691 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:53,700 [INFO]: Process-2  video.py(inference:246) >> frame 128, loop time = 0.492s, input FPS = 20.000, output FPS = 2.033
+2023-05-31 22:38:53,198 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:53,207 [INFO]: Process-2  video.py(inference:246) >> frame 127, loop time = 0.541s, input FPS = 20.000, output FPS = 1.849
+2023-05-31 22:38:53,691 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:53,700 [INFO]: Process-2  video.py(inference:246) >> frame 128, loop time = 0.492s, input FPS = 20.000, output FPS = 2.033
+2023-05-31 22:38:54,216 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:54,225 [INFO]: Process-2  video.py(inference:246) >> frame 129, loop time = 0.524s, input FPS = 20.000, output FPS = 1.909
+2023-05-31 22:38:54,729 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:54,738 [INFO]: Process-2  video.py(inference:246) >> frame 130, loop time = 0.512s, input FPS = 20.000, output FPS = 1.953
+2023-05-31 22:38:54,216 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:38:54,225 [INFO]: Process-2  video.py(inference:246) >> frame 129, loop time = 0.524s, input FPS = 20.000, output FPS = 1.909
+2023-05-31 22:38:54,729 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:54,738 [INFO]: Process-2  video.py(inference:246) >> frame 130, loop time = 0.512s, input FPS = 20.000, output FPS = 1.953
+2023-05-31 22:38:55,249 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:55,259 [INFO]: Process-2  video.py(inference:246) >> frame 131, loop time = 0.519s, input FPS = 20.000, output FPS = 1.926
+2023-05-31 22:38:55,780 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:55,789 [INFO]: Process-2  video.py(inference:246) >> frame 132, loop time = 0.529s, input FPS = 20.000, output FPS = 1.892
+2023-05-31 22:38:55,249 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:55,259 [INFO]: Process-2  video.py(inference:246) >> frame 131, loop time = 0.519s, input FPS = 20.000, output FPS = 1.926
+2023-05-31 22:38:55,780 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:55,789 [INFO]: Process-2  video.py(inference:246) >> frame 132, loop time = 0.529s, input FPS = 20.000, output FPS = 1.892
+2023-05-31 22:38:56,299 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:56,308 [INFO]: Process-2  video.py(inference:246) >> frame 133, loop time = 0.518s, input FPS = 20.000, output FPS = 1.929
+2023-05-31 22:38:56,299 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:56,308 [INFO]: Process-2  video.py(inference:246) >> frame 133, loop time = 0.518s, input FPS = 20.000, output FPS = 1.929
+2023-05-31 22:38:56,861 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:56,870 [INFO]: Process-2  video.py(inference:246) >> frame 134, loop time = 0.561s, input FPS = 20.000, output FPS = 1.784
+2023-05-31 22:38:57,469 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:57,479 [INFO]: Process-2  video.py(inference:246) >> frame 135, loop time = 0.607s, input FPS = 20.000, output FPS = 1.647
+2023-05-31 22:38:56,861 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:56,870 [INFO]: Process-2  video.py(inference:246) >> frame 134, loop time = 0.561s, input FPS = 20.000, output FPS = 1.784
+2023-05-31 22:38:57,469 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:38:57,479 [INFO]: Process-2  video.py(inference:246) >> frame 135, loop time = 0.607s, input FPS = 20.000, output FPS = 1.647
+2023-05-31 22:38:58,025 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:58,033 [INFO]: Process-2  video.py(inference:246) >> frame 136, loop time = 0.554s, input FPS = 20.000, output FPS = 1.806
+2023-05-31 22:38:58,563 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:58,571 [INFO]: Process-2  video.py(inference:246) >> frame 137, loop time = 0.537s, input FPS = 20.000, output FPS = 1.863
+2023-05-31 22:38:58,025 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:58,033 [INFO]: Process-2  video.py(inference:246) >> frame 136, loop time = 0.554s, input FPS = 20.000, output FPS = 1.806
+2023-05-31 22:38:58,563 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:58,571 [INFO]: Process-2  video.py(inference:246) >> frame 137, loop time = 0.537s, input FPS = 20.000, output FPS = 1.863
+2023-05-31 22:38:59,119 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:59,130 [INFO]: Process-2  video.py(inference:246) >> frame 138, loop time = 0.557s, input FPS = 20.000, output FPS = 1.796
+2023-05-31 22:38:59,636 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:59,644 [INFO]: Process-2  video.py(inference:246) >> frame 139, loop time = 0.513s, input FPS = 20.000, output FPS = 1.950
+2023-05-31 22:38:59,119 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:38:59,130 [INFO]: Process-2  video.py(inference:246) >> frame 138, loop time = 0.557s, input FPS = 20.000, output FPS = 1.796
+2023-05-31 22:38:59,636 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:38:59,644 [INFO]: Process-2  video.py(inference:246) >> frame 139, loop time = 0.513s, input FPS = 20.000, output FPS = 1.950
+2023-05-31 22:39:00,150 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:00,158 [INFO]: Process-2  video.py(inference:246) >> frame 140, loop time = 0.513s, input FPS = 20.000, output FPS = 1.949
+2023-05-31 22:39:00,663 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:00,670 [INFO]: Process-2  video.py(inference:246) >> frame 141, loop time = 0.511s, input FPS = 20.000, output FPS = 1.957
+2023-05-31 22:39:00,150 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:00,158 [INFO]: Process-2  video.py(inference:246) >> frame 140, loop time = 0.513s, input FPS = 20.000, output FPS = 1.949
+2023-05-31 22:39:00,663 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:00,670 [INFO]: Process-2  video.py(inference:246) >> frame 141, loop time = 0.511s, input FPS = 20.000, output FPS = 1.957
+2023-05-31 22:39:01,265 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:01,276 [INFO]: Process-2  video.py(inference:246) >> frame 142, loop time = 0.604s, input FPS = 20.000, output FPS = 1.656
+2023-05-31 22:39:01,814 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:01,823 [INFO]: Process-2  video.py(inference:246) >> frame 143, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:39:01,265 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:01,276 [INFO]: Process-2  video.py(inference:246) >> frame 142, loop time = 0.604s, input FPS = 20.000, output FPS = 1.656
+2023-05-31 22:39:01,814 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:01,823 [INFO]: Process-2  video.py(inference:246) >> frame 143, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:39:02,358 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:02,367 [INFO]: Process-2  video.py(inference:246) >> frame 144, loop time = 0.543s, input FPS = 20.000, output FPS = 1.841
+2023-05-31 22:39:02,358 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:02,367 [INFO]: Process-2  video.py(inference:246) >> frame 144, loop time = 0.543s, input FPS = 20.000, output FPS = 1.841
+2023-05-31 22:39:02,991 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:02,999 [INFO]: Process-2  video.py(inference:246) >> frame 145, loop time = 0.630s, input FPS = 20.000, output FPS = 1.586
+2023-05-31 22:39:03,524 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:03,528 [INFO]: Process-2  video.py(inference:246) >> frame 146, loop time = 0.528s, input FPS = 20.000, output FPS = 1.895
+2023-05-31 22:39:02,991 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:02,999 [INFO]: Process-2  video.py(inference:246) >> frame 145, loop time = 0.630s, input FPS = 20.000, output FPS = 1.586
+2023-05-31 22:39:03,524 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:03,528 [INFO]: Process-2  video.py(inference:246) >> frame 146, loop time = 0.528s, input FPS = 20.000, output FPS = 1.895
+2023-05-31 22:39:04,085 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:04,089 [INFO]: Process-2  video.py(inference:246) >> frame 147, loop time = 0.560s, input FPS = 20.000, output FPS = 1.785
+2023-05-31 22:39:04,589 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:04,593 [INFO]: Process-2  video.py(inference:246) >> frame 148, loop time = 0.502s, input FPS = 20.000, output FPS = 1.991
+2023-05-31 22:39:04,085 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:04,089 [INFO]: Process-2  video.py(inference:246) >> frame 147, loop time = 0.560s, input FPS = 20.000, output FPS = 1.785
+2023-05-31 22:39:04,589 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:04,593 [INFO]: Process-2  video.py(inference:246) >> frame 148, loop time = 0.502s, input FPS = 20.000, output FPS = 1.991
+2023-05-31 22:39:05,180 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:05,184 [INFO]: Process-2  video.py(inference:246) >> frame 149, loop time = 0.590s, input FPS = 20.000, output FPS = 1.695
+2023-05-31 22:39:05,851 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:05,857 [INFO]: Process-2  video.py(inference:246) >> frame 150, loop time = 0.671s, input FPS = 20.000, output FPS = 1.491
+2023-05-31 22:39:05,180 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:05,184 [INFO]: Process-2  video.py(inference:246) >> frame 149, loop time = 0.590s, input FPS = 20.000, output FPS = 1.695
+2023-05-31 22:39:05,851 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:05,857 [INFO]: Process-2  video.py(inference:246) >> frame 150, loop time = 0.671s, input FPS = 20.000, output FPS = 1.491
+2023-05-31 22:39:06,475 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:06,484 [INFO]: Process-2  video.py(inference:246) >> frame 151, loop time = 0.625s, input FPS = 20.000, output FPS = 1.599
+2023-05-31 22:39:06,475 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:06,484 [INFO]: Process-2  video.py(inference:246) >> frame 151, loop time = 0.625s, input FPS = 20.000, output FPS = 1.599
+2023-05-31 22:39:07,116 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:07,122 [INFO]: Process-2  video.py(inference:246) >> frame 152, loop time = 0.636s, input FPS = 20.000, output FPS = 1.573
+2023-05-31 22:39:07,705 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:07,710 [INFO]: Process-2  video.py(inference:246) >> frame 153, loop time = 0.587s, input FPS = 20.000, output FPS = 1.705
+2023-05-31 22:39:07,116 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:07,122 [INFO]: Process-2  video.py(inference:246) >> frame 152, loop time = 0.636s, input FPS = 20.000, output FPS = 1.573
+2023-05-31 22:39:07,705 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:07,710 [INFO]: Process-2  video.py(inference:246) >> frame 153, loop time = 0.587s, input FPS = 20.000, output FPS = 1.705
+2023-05-31 22:39:08,229 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:08,233 [INFO]: Process-2  video.py(inference:246) >> frame 154, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:39:08,784 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:08,789 [INFO]: Process-2  video.py(inference:246) >> frame 155, loop time = 0.554s, input FPS = 20.000, output FPS = 1.804
+2023-05-31 22:39:08,229 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:08,233 [INFO]: Process-2  video.py(inference:246) >> frame 154, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:39:08,784 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:08,789 [INFO]: Process-2  video.py(inference:246) >> frame 155, loop time = 0.554s, input FPS = 20.000, output FPS = 1.804
+2023-05-31 22:39:09,317 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:09,322 [INFO]: Process-2  video.py(inference:246) >> frame 156, loop time = 0.532s, input FPS = 20.000, output FPS = 1.881
+2023-05-31 22:39:09,878 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:09,882 [INFO]: Process-2  video.py(inference:246) >> frame 157, loop time = 0.559s, input FPS = 20.000, output FPS = 1.788
+2023-05-31 22:39:09,317 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:09,322 [INFO]: Process-2  video.py(inference:246) >> frame 156, loop time = 0.532s, input FPS = 20.000, output FPS = 1.881
+2023-05-31 22:39:09,878 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:09,882 [INFO]: Process-2  video.py(inference:246) >> frame 157, loop time = 0.559s, input FPS = 20.000, output FPS = 1.788
+2023-05-31 22:39:10,413 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:10,418 [INFO]: Process-2  video.py(inference:246) >> frame 158, loop time = 0.534s, input FPS = 20.000, output FPS = 1.871
+2023-05-31 22:39:10,413 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:10,418 [INFO]: Process-2  video.py(inference:246) >> frame 158, loop time = 0.534s, input FPS = 20.000, output FPS = 1.871
+2023-05-31 22:39:10,917 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:10,922 [INFO]: Process-2  video.py(inference:246) >> frame 159, loop time = 0.502s, input FPS = 20.000, output FPS = 1.992
+2023-05-31 22:39:11,459 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:11,463 [INFO]: Process-2  video.py(inference:246) >> frame 160, loop time = 0.540s, input FPS = 20.000, output FPS = 1.853
+2023-05-31 22:39:10,917 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:10,922 [INFO]: Process-2  video.py(inference:246) >> frame 159, loop time = 0.502s, input FPS = 20.000, output FPS = 1.992
+2023-05-31 22:39:11,459 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:11,463 [INFO]: Process-2  video.py(inference:246) >> frame 160, loop time = 0.540s, input FPS = 20.000, output FPS = 1.853
+2023-05-31 22:39:11,972 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:11,978 [INFO]: Process-2  video.py(inference:246) >> frame 161, loop time = 0.513s, input FPS = 20.000, output FPS = 1.948
+2023-05-31 22:39:12,565 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:12,570 [INFO]: Process-2  video.py(inference:246) >> frame 162, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:39:11,972 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:11,978 [INFO]: Process-2  video.py(inference:246) >> frame 161, loop time = 0.513s, input FPS = 20.000, output FPS = 1.948
+2023-05-31 22:39:12,565 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:12,570 [INFO]: Process-2  video.py(inference:246) >> frame 162, loop time = 0.591s, input FPS = 20.000, output FPS = 1.692
+2023-05-31 22:39:13,187 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:13,192 [INFO]: Process-2  video.py(inference:246) >> frame 163, loop time = 0.621s, input FPS = 20.000, output FPS = 1.611
+2023-05-31 22:39:13,739 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:13,743 [INFO]: Process-2  video.py(inference:246) >> frame 164, loop time = 0.550s, input FPS = 20.000, output FPS = 1.820
+2023-05-31 22:39:13,187 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:13,192 [INFO]: Process-2  video.py(inference:246) >> frame 163, loop time = 0.621s, input FPS = 20.000, output FPS = 1.611
+2023-05-31 22:39:13,739 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:13,743 [INFO]: Process-2  video.py(inference:246) >> frame 164, loop time = 0.550s, input FPS = 20.000, output FPS = 1.820
+2023-05-31 22:39:14,301 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:14,305 [INFO]: Process-2  video.py(inference:246) >> frame 165, loop time = 0.561s, input FPS = 20.000, output FPS = 1.783
+2023-05-31 22:39:14,876 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:14,881 [INFO]: Process-2  video.py(inference:246) >> frame 166, loop time = 0.575s, input FPS = 20.000, output FPS = 1.739
+2023-05-31 22:39:14,301 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:14,305 [INFO]: Process-2  video.py(inference:246) >> frame 165, loop time = 0.561s, input FPS = 20.000, output FPS = 1.783
+2023-05-31 22:39:14,876 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:14,881 [INFO]: Process-2  video.py(inference:246) >> frame 166, loop time = 0.575s, input FPS = 20.000, output FPS = 1.739
+2023-05-31 22:39:15,485 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:15,490 [INFO]: Process-2  video.py(inference:246) >> frame 167, loop time = 0.607s, input FPS = 20.000, output FPS = 1.647
+2023-05-31 22:39:15,485 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:15,490 [INFO]: Process-2  video.py(inference:246) >> frame 167, loop time = 0.607s, input FPS = 20.000, output FPS = 1.647
+2023-05-31 22:39:16,050 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:16,056 [INFO]: Process-2  video.py(inference:246) >> frame 168, loop time = 0.564s, input FPS = 20.000, output FPS = 1.773
+2023-05-31 22:39:16,644 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:16,649 [INFO]: Process-2  video.py(inference:246) >> frame 169, loop time = 0.592s, input FPS = 20.000, output FPS = 1.689
+2023-05-31 22:39:16,050 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:16,056 [INFO]: Process-2  video.py(inference:246) >> frame 168, loop time = 0.564s, input FPS = 20.000, output FPS = 1.773
+2023-05-31 22:39:16,644 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:16,649 [INFO]: Process-2  video.py(inference:246) >> frame 169, loop time = 0.592s, input FPS = 20.000, output FPS = 1.689
+2023-05-31 22:39:17,171 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:17,177 [INFO]: Process-2  video.py(inference:246) >> frame 170, loop time = 0.527s, input FPS = 20.000, output FPS = 1.898
+2023-05-31 22:39:17,750 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:17,755 [INFO]: Process-2  video.py(inference:246) >> frame 171, loop time = 0.576s, input FPS = 20.000, output FPS = 1.736
+2023-05-31 22:39:17,171 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:17,177 [INFO]: Process-2  video.py(inference:246) >> frame 170, loop time = 0.527s, input FPS = 20.000, output FPS = 1.898
+2023-05-31 22:39:17,750 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:17,755 [INFO]: Process-2  video.py(inference:246) >> frame 171, loop time = 0.576s, input FPS = 20.000, output FPS = 1.736
+2023-05-31 22:39:18,280 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:18,284 [INFO]: Process-2  video.py(inference:246) >> frame 172, loop time = 0.528s, input FPS = 20.000, output FPS = 1.894
+2023-05-31 22:39:18,785 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:18,789 [INFO]: Process-2  video.py(inference:246) >> frame 173, loop time = 0.504s, input FPS = 20.000, output FPS = 1.985
+2023-05-31 22:39:18,280 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:18,284 [INFO]: Process-2  video.py(inference:246) >> frame 172, loop time = 0.528s, input FPS = 20.000, output FPS = 1.894
+2023-05-31 22:39:18,785 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:18,789 [INFO]: Process-2  video.py(inference:246) >> frame 173, loop time = 0.504s, input FPS = 20.000, output FPS = 1.985
+2023-05-31 22:39:19,345 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:19,350 [INFO]: Process-2  video.py(inference:246) >> frame 174, loop time = 0.560s, input FPS = 20.000, output FPS = 1.787
+2023-05-31 22:39:19,855 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:19,860 [INFO]: Process-2  video.py(inference:246) >> frame 175, loop time = 0.509s, input FPS = 20.000, output FPS = 1.966
+2023-05-31 22:39:19,345 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:19,350 [INFO]: Process-2  video.py(inference:246) >> frame 174, loop time = 0.560s, input FPS = 20.000, output FPS = 1.787
+2023-05-31 22:39:19,855 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:19,860 [INFO]: Process-2  video.py(inference:246) >> frame 175, loop time = 0.509s, input FPS = 20.000, output FPS = 1.966
+2023-05-31 22:39:20,382 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:20,386 [INFO]: Process-2  video.py(inference:246) >> frame 176, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:39:20,910 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:20,915 [INFO]: Process-2  video.py(inference:246) >> frame 177, loop time = 0.528s, input FPS = 20.000, output FPS = 1.895
+2023-05-31 22:39:20,382 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:20,386 [INFO]: Process-2  video.py(inference:246) >> frame 176, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:39:20,910 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:20,915 [INFO]: Process-2  video.py(inference:246) >> frame 177, loop time = 0.528s, input FPS = 20.000, output FPS = 1.895
+2023-05-31 22:39:21,461 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:21,466 [INFO]: Process-2  video.py(inference:246) >> frame 178, loop time = 0.549s, input FPS = 20.000, output FPS = 1.822
+2023-05-31 22:39:21,461 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:21,466 [INFO]: Process-2  video.py(inference:246) >> frame 178, loop time = 0.549s, input FPS = 20.000, output FPS = 1.822
+2023-05-31 22:39:22,050 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:22,054 [INFO]: Process-2  video.py(inference:246) >> frame 179, loop time = 0.587s, input FPS = 20.000, output FPS = 1.702
+2023-05-31 22:39:22,688 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:22,693 [INFO]: Process-2  video.py(inference:246) >> frame 180, loop time = 0.637s, input FPS = 20.000, output FPS = 1.571
+2023-05-31 22:39:22,050 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:22,054 [INFO]: Process-2  video.py(inference:246) >> frame 179, loop time = 0.587s, input FPS = 20.000, output FPS = 1.702
+2023-05-31 22:39:22,688 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:22,693 [INFO]: Process-2  video.py(inference:246) >> frame 180, loop time = 0.637s, input FPS = 20.000, output FPS = 1.571
+2023-05-31 22:39:23,241 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:23,245 [INFO]: Process-2  video.py(inference:246) >> frame 181, loop time = 0.551s, input FPS = 20.000, output FPS = 1.816
+2023-05-31 22:39:23,804 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:23,809 [INFO]: Process-2  video.py(inference:246) >> frame 182, loop time = 0.563s, input FPS = 20.000, output FPS = 1.776
+2023-05-31 22:39:23,241 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:23,245 [INFO]: Process-2  video.py(inference:246) >> frame 181, loop time = 0.551s, input FPS = 20.000, output FPS = 1.816
+2023-05-31 22:39:23,804 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:23,809 [INFO]: Process-2  video.py(inference:246) >> frame 182, loop time = 0.563s, input FPS = 20.000, output FPS = 1.776
+2023-05-31 22:39:24,327 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:24,331 [INFO]: Process-2  video.py(inference:246) >> frame 183, loop time = 0.521s, input FPS = 20.000, output FPS = 1.921
+2023-05-31 22:39:24,833 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:24,837 [INFO]: Process-2  video.py(inference:246) >> frame 184, loop time = 0.504s, input FPS = 20.000, output FPS = 1.984
+2023-05-31 22:39:24,327 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:24,331 [INFO]: Process-2  video.py(inference:246) >> frame 183, loop time = 0.521s, input FPS = 20.000, output FPS = 1.921
+2023-05-31 22:39:24,833 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:24,837 [INFO]: Process-2  video.py(inference:246) >> frame 184, loop time = 0.504s, input FPS = 20.000, output FPS = 1.984
+2023-05-31 22:39:25,326 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:25,331 [INFO]: Process-2  video.py(inference:246) >> frame 185, loop time = 0.493s, input FPS = 20.000, output FPS = 2.029
+2023-05-31 22:39:25,862 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:25,866 [INFO]: Process-2  video.py(inference:246) >> frame 186, loop time = 0.534s, input FPS = 20.000, output FPS = 1.872
+2023-05-31 22:39:25,326 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:25,331 [INFO]: Process-2  video.py(inference:246) >> frame 185, loop time = 0.493s, input FPS = 20.000, output FPS = 2.029
+2023-05-31 22:39:25,862 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:25,866 [INFO]: Process-2  video.py(inference:246) >> frame 186, loop time = 0.534s, input FPS = 20.000, output FPS = 1.872
+2023-05-31 22:39:26,397 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:26,402 [INFO]: Process-2  video.py(inference:246) >> frame 187, loop time = 0.534s, input FPS = 20.000, output FPS = 1.873
+2023-05-31 22:39:26,890 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:26,894 [INFO]: Process-2  video.py(inference:246) >> frame 188, loop time = 0.491s, input FPS = 20.000, output FPS = 2.036
+2023-05-31 22:39:26,397 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:26,402 [INFO]: Process-2  video.py(inference:246) >> frame 187, loop time = 0.534s, input FPS = 20.000, output FPS = 1.873
+2023-05-31 22:39:26,890 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:26,894 [INFO]: Process-2  video.py(inference:246) >> frame 188, loop time = 0.491s, input FPS = 20.000, output FPS = 2.036
+2023-05-31 22:39:27,368 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:27,372 [INFO]: Process-2  video.py(inference:246) >> frame 189, loop time = 0.477s, input FPS = 20.000, output FPS = 2.098
+2023-05-31 22:39:27,894 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:27,899 [INFO]: Process-2  video.py(inference:246) >> frame 190, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:39:27,368 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:27,372 [INFO]: Process-2  video.py(inference:246) >> frame 189, loop time = 0.477s, input FPS = 20.000, output FPS = 2.098
+2023-05-31 22:39:27,894 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:27,899 [INFO]: Process-2  video.py(inference:246) >> frame 190, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:39:28,387 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:28,392 [INFO]: Process-2  video.py(inference:246) >> frame 191, loop time = 0.491s, input FPS = 20.000, output FPS = 2.035
+2023-05-31 22:39:28,910 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:28,914 [INFO]: Process-2  video.py(inference:246) >> frame 192, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:39:28,387 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:28,392 [INFO]: Process-2  video.py(inference:246) >> frame 191, loop time = 0.491s, input FPS = 20.000, output FPS = 2.035
+2023-05-31 22:39:28,910 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:28,914 [INFO]: Process-2  video.py(inference:246) >> frame 192, loop time = 0.522s, input FPS = 20.000, output FPS = 1.917
+2023-05-31 22:39:29,490 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:29,495 [INFO]: Process-2  video.py(inference:246) >> frame 193, loop time = 0.579s, input FPS = 20.000, output FPS = 1.726
+2023-05-31 22:39:29,490 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:29,495 [INFO]: Process-2  video.py(inference:246) >> frame 193, loop time = 0.579s, input FPS = 20.000, output FPS = 1.726
+2023-05-31 22:39:29,999 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:30,003 [INFO]: Process-2  video.py(inference:246) >> frame 194, loop time = 0.506s, input FPS = 20.000, output FPS = 1.975
+2023-05-31 22:39:30,608 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:30,614 [INFO]: Process-2  video.py(inference:246) >> frame 195, loop time = 0.610s, input FPS = 20.000, output FPS = 1.640
+2023-05-31 22:39:29,999 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:30,003 [INFO]: Process-2  video.py(inference:246) >> frame 194, loop time = 0.506s, input FPS = 20.000, output FPS = 1.975
+2023-05-31 22:39:30,608 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:30,614 [INFO]: Process-2  video.py(inference:246) >> frame 195, loop time = 0.610s, input FPS = 20.000, output FPS = 1.640
+2023-05-31 22:39:31,186 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:31,191 [INFO]: Process-2  video.py(inference:246) >> frame 196, loop time = 0.575s, input FPS = 20.000, output FPS = 1.739
+2023-05-31 22:39:31,732 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:31,741 [INFO]: Process-2  video.py(inference:246) >> frame 197, loop time = 0.548s, input FPS = 20.000, output FPS = 1.823
+2023-05-31 22:39:31,186 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:31,191 [INFO]: Process-2  video.py(inference:246) >> frame 196, loop time = 0.575s, input FPS = 20.000, output FPS = 1.739
+2023-05-31 22:39:31,732 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:31,741 [INFO]: Process-2  video.py(inference:246) >> frame 197, loop time = 0.548s, input FPS = 20.000, output FPS = 1.823
+2023-05-31 22:39:32,243 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:32,250 [INFO]: Process-2  video.py(inference:246) >> frame 198, loop time = 0.508s, input FPS = 20.000, output FPS = 1.968
+2023-05-31 22:39:32,764 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:32,772 [INFO]: Process-2  video.py(inference:246) >> frame 199, loop time = 0.521s, input FPS = 20.000, output FPS = 1.920
+2023-05-31 22:39:32,243 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:39:32,250 [INFO]: Process-2  video.py(inference:246) >> frame 198, loop time = 0.508s, input FPS = 20.000, output FPS = 1.968
+2023-05-31 22:39:32,764 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:32,772 [INFO]: Process-2  video.py(inference:246) >> frame 199, loop time = 0.521s, input FPS = 20.000, output FPS = 1.920
+2023-05-31 22:39:33,295 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:33,302 [INFO]: Process-2  video.py(inference:246) >> frame 200, loop time = 0.529s, input FPS = 20.000, output FPS = 1.889
+2023-05-31 22:39:33,855 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:33,863 [INFO]: Process-2  video.py(inference:246) >> frame 201, loop time = 0.560s, input FPS = 20.000, output FPS = 1.786
+2023-05-31 22:39:33,295 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:33,302 [INFO]: Process-2  video.py(inference:246) >> frame 200, loop time = 0.529s, input FPS = 20.000, output FPS = 1.889
+2023-05-31 22:39:33,855 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:33,863 [INFO]: Process-2  video.py(inference:246) >> frame 201, loop time = 0.560s, input FPS = 20.000, output FPS = 1.786
+2023-05-31 22:39:34,402 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:34,412 [INFO]: Process-2  video.py(inference:246) >> frame 202, loop time = 0.548s, input FPS = 20.000, output FPS = 1.826
+2023-05-31 22:39:34,938 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:34,946 [INFO]: Process-2  video.py(inference:246) >> frame 203, loop time = 0.533s, input FPS = 20.000, output FPS = 1.877
+2023-05-31 22:39:34,402 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:34,412 [INFO]: Process-2  video.py(inference:246) >> frame 202, loop time = 0.548s, input FPS = 20.000, output FPS = 1.826
+2023-05-31 22:39:34,938 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:34,946 [INFO]: Process-2  video.py(inference:246) >> frame 203, loop time = 0.533s, input FPS = 20.000, output FPS = 1.877
+2023-05-31 22:39:35,457 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:35,467 [INFO]: Process-2  video.py(inference:246) >> frame 204, loop time = 0.519s, input FPS = 20.000, output FPS = 1.926
+2023-05-31 22:39:35,457 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:35,467 [INFO]: Process-2  video.py(inference:246) >> frame 204, loop time = 0.519s, input FPS = 20.000, output FPS = 1.926
+2023-05-31 22:39:36,011 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:36,022 [INFO]: Process-2  video.py(inference:246) >> frame 205, loop time = 0.554s, input FPS = 20.000, output FPS = 1.805
+2023-05-31 22:39:36,531 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:36,540 [INFO]: Process-2  video.py(inference:246) >> frame 206, loop time = 0.517s, input FPS = 20.000, output FPS = 1.934
+2023-05-31 22:39:36,011 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:36,022 [INFO]: Process-2  video.py(inference:246) >> frame 205, loop time = 0.554s, input FPS = 20.000, output FPS = 1.805
+2023-05-31 22:39:36,531 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:36,540 [INFO]: Process-2  video.py(inference:246) >> frame 206, loop time = 0.517s, input FPS = 20.000, output FPS = 1.934
+2023-05-31 22:39:37,053 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:37,061 [INFO]: Process-2  video.py(inference:246) >> frame 207, loop time = 0.520s, input FPS = 20.000, output FPS = 1.923
+2023-05-31 22:39:37,578 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:37,587 [INFO]: Process-2  video.py(inference:246) >> frame 208, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:39:37,053 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:37,061 [INFO]: Process-2  video.py(inference:246) >> frame 207, loop time = 0.520s, input FPS = 20.000, output FPS = 1.923
+2023-05-31 22:39:37,578 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:37,587 [INFO]: Process-2  video.py(inference:246) >> frame 208, loop time = 0.525s, input FPS = 20.000, output FPS = 1.905
+2023-05-31 22:39:38,087 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:38,097 [INFO]: Process-2  video.py(inference:246) >> frame 209, loop time = 0.508s, input FPS = 20.000, output FPS = 1.967
+2023-05-31 22:39:38,657 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:38,667 [INFO]: Process-2  video.py(inference:246) >> frame 210, loop time = 0.569s, input FPS = 20.000, output FPS = 1.758
+2023-05-31 22:39:38,087 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:38,097 [INFO]: Process-2  video.py(inference:246) >> frame 209, loop time = 0.508s, input FPS = 20.000, output FPS = 1.967
+2023-05-31 22:39:38,657 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:38,667 [INFO]: Process-2  video.py(inference:246) >> frame 210, loop time = 0.569s, input FPS = 20.000, output FPS = 1.758
+2023-05-31 22:39:39,179 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:39,187 [INFO]: Process-2  video.py(inference:246) >> frame 211, loop time = 0.519s, input FPS = 20.000, output FPS = 1.927
+2023-05-31 22:39:39,717 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:39:39,727 [INFO]: Process-2  video.py(inference:246) >> frame 212, loop time = 0.538s, input FPS = 20.000, output FPS = 1.858
+2023-05-31 22:39:39,179 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:39,187 [INFO]: Process-2  video.py(inference:246) >> frame 211, loop time = 0.519s, input FPS = 20.000, output FPS = 1.927
+2023-05-31 22:39:39,717 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:39:39,727 [INFO]: Process-2  video.py(inference:246) >> frame 212, loop time = 0.538s, input FPS = 20.000, output FPS = 1.858
+2023-05-31 22:39:40,279 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:40,289 [INFO]: Process-2  video.py(inference:246) >> frame 213, loop time = 0.561s, input FPS = 20.000, output FPS = 1.783
+2023-05-31 22:39:40,789 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:39:40,799 [INFO]: Process-2  video.py(inference:246) >> frame 214, loop time = 0.509s, input FPS = 20.000, output FPS = 1.964
+2023-05-31 22:39:40,279 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:40,289 [INFO]: Process-2  video.py(inference:246) >> frame 213, loop time = 0.561s, input FPS = 20.000, output FPS = 1.783
+2023-05-31 22:39:40,789 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [10]
+2023-05-31 22:39:40,799 [INFO]: Process-2  video.py(inference:246) >> frame 214, loop time = 0.509s, input FPS = 20.000, output FPS = 1.964
+2023-05-31 22:39:41,350 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:41,359 [INFO]: Process-2  video.py(inference:246) >> frame 215, loop time = 0.558s, input FPS = 20.000, output FPS = 1.791
+2023-05-31 22:39:41,850 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:41,860 [INFO]: Process-2  video.py(inference:246) >> frame 216, loop time = 0.500s, input FPS = 20.000, output FPS = 1.998
+2023-05-31 22:39:41,350 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:41,359 [INFO]: Process-2  video.py(inference:246) >> frame 215, loop time = 0.558s, input FPS = 20.000, output FPS = 1.791
+2023-05-31 22:39:41,850 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:41,860 [INFO]: Process-2  video.py(inference:246) >> frame 216, loop time = 0.500s, input FPS = 20.000, output FPS = 1.998
+2023-05-31 22:39:42,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:42,379 [INFO]: Process-2  video.py(inference:246) >> frame 217, loop time = 0.518s, input FPS = 20.000, output FPS = 1.931
+2023-05-31 22:39:42,865 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:42,873 [INFO]: Process-2  video.py(inference:246) >> frame 218, loop time = 0.493s, input FPS = 20.000, output FPS = 2.028
+2023-05-31 22:39:42,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:42,379 [INFO]: Process-2  video.py(inference:246) >> frame 217, loop time = 0.518s, input FPS = 20.000, output FPS = 1.931
+2023-05-31 22:39:42,865 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:39:42,873 [INFO]: Process-2  video.py(inference:246) >> frame 218, loop time = 0.493s, input FPS = 20.000, output FPS = 2.028
+2023-05-31 22:39:43,391 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:43,399 [INFO]: Process-2  video.py(inference:246) >> frame 219, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:39:43,947 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:43,956 [INFO]: Process-2  video.py(inference:246) >> frame 220, loop time = 0.556s, input FPS = 20.000, output FPS = 1.799
+2023-05-31 22:39:43,391 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [9]
+2023-05-31 22:39:43,399 [INFO]: Process-2  video.py(inference:246) >> frame 219, loop time = 0.524s, input FPS = 20.000, output FPS = 1.908
+2023-05-31 22:39:43,947 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:43,956 [INFO]: Process-2  video.py(inference:246) >> frame 220, loop time = 0.556s, input FPS = 20.000, output FPS = 1.799
+2023-05-31 22:39:44,464 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:44,472 [INFO]: Process-2  video.py(inference:246) >> frame 221, loop time = 0.516s, input FPS = 20.000, output FPS = 1.940
+2023-05-31 22:39:44,940 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:44,948 [INFO]: Process-2  video.py(inference:246) >> frame 222, loop time = 0.475s, input FPS = 20.000, output FPS = 2.106
+2023-05-31 22:39:44,464 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:44,472 [INFO]: Process-2  video.py(inference:246) >> frame 221, loop time = 0.516s, input FPS = 20.000, output FPS = 1.940
+2023-05-31 22:39:44,940 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:44,948 [INFO]: Process-2  video.py(inference:246) >> frame 222, loop time = 0.475s, input FPS = 20.000, output FPS = 2.106
+2023-05-31 22:39:45,496 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:45,506 [INFO]: Process-2  video.py(inference:246) >> frame 223, loop time = 0.556s, input FPS = 20.000, output FPS = 1.798
+2023-05-31 22:39:46,004 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:46,014 [INFO]: Process-2  video.py(inference:246) >> frame 224, loop time = 0.507s, input FPS = 20.000, output FPS = 1.974
+2023-05-31 22:39:45,496 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:45,506 [INFO]: Process-2  video.py(inference:246) >> frame 223, loop time = 0.556s, input FPS = 20.000, output FPS = 1.798
+2023-05-31 22:39:46,004 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:46,014 [INFO]: Process-2  video.py(inference:246) >> frame 224, loop time = 0.507s, input FPS = 20.000, output FPS = 1.974
+2023-05-31 22:39:46,535 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:46,543 [INFO]: Process-2  video.py(inference:246) >> frame 225, loop time = 0.528s, input FPS = 20.000, output FPS = 1.893
+2023-05-31 22:39:47,026 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:47,034 [INFO]: Process-2  video.py(inference:246) >> frame 226, loop time = 0.490s, input FPS = 20.000, output FPS = 2.039
+2023-05-31 22:39:46,535 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:46,543 [INFO]: Process-2  video.py(inference:246) >> frame 225, loop time = 0.528s, input FPS = 20.000, output FPS = 1.893
+2023-05-31 22:39:47,026 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:47,034 [INFO]: Process-2  video.py(inference:246) >> frame 226, loop time = 0.490s, input FPS = 20.000, output FPS = 2.039
+2023-05-31 22:39:47,569 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:47,578 [INFO]: Process-2  video.py(inference:246) >> frame 227, loop time = 0.542s, input FPS = 20.000, output FPS = 1.844
+2023-05-31 22:39:47,569 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:39:47,578 [INFO]: Process-2  video.py(inference:246) >> frame 227, loop time = 0.542s, input FPS = 20.000, output FPS = 1.844
+2023-05-31 22:39:48,076 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:48,086 [INFO]: Process-2  video.py(inference:246) >> frame 228, loop time = 0.507s, input FPS = 20.000, output FPS = 1.972
+2023-05-31 22:39:48,596 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:48,604 [INFO]: Process-2  video.py(inference:246) >> frame 229, loop time = 0.517s, input FPS = 20.000, output FPS = 1.934
+2023-05-31 22:39:48,076 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:48,086 [INFO]: Process-2  video.py(inference:246) >> frame 228, loop time = 0.507s, input FPS = 20.000, output FPS = 1.972
+2023-05-31 22:39:48,596 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:39:48,604 [INFO]: Process-2  video.py(inference:246) >> frame 229, loop time = 0.517s, input FPS = 20.000, output FPS = 1.934
+2023-05-31 22:39:49,165 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:49,175 [INFO]: Process-2  video.py(inference:246) >> frame 230, loop time = 0.569s, input FPS = 20.000, output FPS = 1.757
+2023-05-31 22:39:49,694 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:49,703 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:39:49,704 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 2
+2023-05-31 22:39:49,778 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_223949_None_openpifpaf_2.jpg
+2023-05-31 22:39:49,779 [INFO]: Process-2  video.py(inference:246) >> frame 231, loop time = 0.603s, input FPS = 20.000, output FPS = 1.659
+2023-05-31 22:39:49,165 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:49,175 [INFO]: Process-2  video.py(inference:246) >> frame 230, loop time = 0.569s, input FPS = 20.000, output FPS = 1.757
+2023-05-31 22:39:49,694 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:49,703 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:39:49,704 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 2
+2023-05-31 22:39:49,778 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_223949_None_openpifpaf_2.jpg
+2023-05-31 22:39:49,779 [INFO]: Process-2  video.py(inference:246) >> frame 231, loop time = 0.603s, input FPS = 20.000, output FPS = 1.659
+2023-05-31 22:39:50,296 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:50,306 [INFO]: Process-2  video.py(inference:246) >> frame 232, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:39:50,803 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:50,811 [INFO]: Process-2  video.py(inference:246) >> frame 233, loop time = 0.504s, input FPS = 20.000, output FPS = 1.983
+2023-05-31 22:39:50,296 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:50,306 [INFO]: Process-2  video.py(inference:246) >> frame 232, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:39:50,803 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:50,811 [INFO]: Process-2  video.py(inference:246) >> frame 233, loop time = 0.504s, input FPS = 20.000, output FPS = 1.983
+2023-05-31 22:39:51,357 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:51,366 [INFO]: Process-2  video.py(inference:246) >> frame 234, loop time = 0.553s, input FPS = 20.000, output FPS = 1.807
+2023-05-31 22:39:51,882 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:51,887 [INFO]: Process-2  video.py(inference:246) >> frame 235, loop time = 0.519s, input FPS = 20.000, output FPS = 1.925
+2023-05-31 22:39:51,357 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:51,366 [INFO]: Process-2  video.py(inference:246) >> frame 234, loop time = 0.553s, input FPS = 20.000, output FPS = 1.807
+2023-05-31 22:39:51,882 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:51,887 [INFO]: Process-2  video.py(inference:246) >> frame 235, loop time = 0.519s, input FPS = 20.000, output FPS = 1.925
+2023-05-31 22:39:52,397 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:52,401 [INFO]: Process-2  video.py(inference:246) >> frame 236, loop time = 0.513s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:39:52,913 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:52,918 [INFO]: Process-2  video.py(inference:246) >> frame 237, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:39:52,397 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:52,401 [INFO]: Process-2  video.py(inference:246) >> frame 236, loop time = 0.513s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:39:52,913 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:52,918 [INFO]: Process-2  video.py(inference:246) >> frame 237, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:39:53,424 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:53,428 [INFO]: Process-2  video.py(inference:246) >> frame 238, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:39:53,933 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:53,938 [INFO]: Process-2  video.py(inference:246) >> frame 239, loop time = 0.508s, input FPS = 20.000, output FPS = 1.967
+2023-05-31 22:39:53,424 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:53,428 [INFO]: Process-2  video.py(inference:246) >> frame 238, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:39:53,933 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:53,938 [INFO]: Process-2  video.py(inference:246) >> frame 239, loop time = 0.508s, input FPS = 20.000, output FPS = 1.967
+2023-05-31 22:39:54,508 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:54,512 [INFO]: Process-2  video.py(inference:246) >> frame 240, loop time = 0.573s, input FPS = 20.000, output FPS = 1.744
+2023-05-31 22:39:55,003 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:55,012 [INFO]: Process-2  video.py(inference:246) >> frame 241, loop time = 0.498s, input FPS = 20.000, output FPS = 2.007
+2023-05-31 22:39:54,508 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:39:54,512 [INFO]: Process-2  video.py(inference:246) >> frame 240, loop time = 0.573s, input FPS = 20.000, output FPS = 1.744
+2023-05-31 22:39:55,003 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:55,012 [INFO]: Process-2  video.py(inference:246) >> frame 241, loop time = 0.498s, input FPS = 20.000, output FPS = 2.007
+2023-05-31 22:39:55,558 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:55,568 [INFO]: Process-2  video.py(inference:246) >> frame 242, loop time = 0.555s, input FPS = 20.000, output FPS = 1.803
+2023-05-31 22:39:56,061 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:56,069 [INFO]: Process-2  video.py(inference:246) >> frame 243, loop time = 0.500s, input FPS = 20.000, output FPS = 2.000
+2023-05-31 22:39:55,558 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:39:55,568 [INFO]: Process-2  video.py(inference:246) >> frame 242, loop time = 0.555s, input FPS = 20.000, output FPS = 1.803
+2023-05-31 22:39:56,061 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:56,069 [INFO]: Process-2  video.py(inference:246) >> frame 243, loop time = 0.500s, input FPS = 20.000, output FPS = 2.000
+2023-05-31 22:39:56,588 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:56,596 [INFO]: Process-2  video.py(inference:246) >> frame 244, loop time = 0.526s, input FPS = 20.000, output FPS = 1.902
+2023-05-31 22:39:56,588 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:56,596 [INFO]: Process-2  video.py(inference:246) >> frame 244, loop time = 0.526s, input FPS = 20.000, output FPS = 1.902
+2023-05-31 22:39:57,141 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:57,149 [INFO]: Process-2  video.py(inference:246) >> frame 245, loop time = 0.551s, input FPS = 20.000, output FPS = 1.813
+2023-05-31 22:39:57,687 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:57,695 [INFO]: Process-2  video.py(inference:246) >> frame 246, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:39:57,141 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:57,149 [INFO]: Process-2  video.py(inference:246) >> frame 245, loop time = 0.551s, input FPS = 20.000, output FPS = 1.813
+2023-05-31 22:39:57,687 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:57,695 [INFO]: Process-2  video.py(inference:246) >> frame 246, loop time = 0.545s, input FPS = 20.000, output FPS = 1.834
+2023-05-31 22:39:58,277 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:58,286 [INFO]: Process-2  video.py(inference:246) >> frame 247, loop time = 0.589s, input FPS = 20.000, output FPS = 1.697
+2023-05-31 22:39:58,812 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:58,821 [INFO]: Process-2  video.py(inference:246) >> frame 248, loop time = 0.533s, input FPS = 20.000, output FPS = 1.875
+2023-05-31 22:39:58,277 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:58,286 [INFO]: Process-2  video.py(inference:246) >> frame 247, loop time = 0.589s, input FPS = 20.000, output FPS = 1.697
+2023-05-31 22:39:58,812 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:39:58,821 [INFO]: Process-2  video.py(inference:246) >> frame 248, loop time = 0.533s, input FPS = 20.000, output FPS = 1.875
+2023-05-31 22:39:59,336 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:59,345 [INFO]: Process-2  video.py(inference:246) >> frame 249, loop time = 0.523s, input FPS = 20.000, output FPS = 1.913
+2023-05-31 22:39:59,861 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:59,869 [INFO]: Process-2  video.py(inference:246) >> frame 250, loop time = 0.523s, input FPS = 20.000, output FPS = 1.912
+2023-05-31 22:39:59,336 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:59,345 [INFO]: Process-2  video.py(inference:246) >> frame 249, loop time = 0.523s, input FPS = 20.000, output FPS = 1.913
+2023-05-31 22:39:59,861 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:39:59,869 [INFO]: Process-2  video.py(inference:246) >> frame 250, loop time = 0.523s, input FPS = 20.000, output FPS = 1.912
+2023-05-31 22:40:00,384 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:00,393 [INFO]: Process-2  video.py(inference:246) >> frame 251, loop time = 0.523s, input FPS = 20.000, output FPS = 1.913
+2023-05-31 22:40:00,880 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:40:00,889 [INFO]: Process-2  video.py(inference:246) >> frame 252, loop time = 0.494s, input FPS = 20.000, output FPS = 2.024
+2023-05-31 22:40:00,384 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:00,393 [INFO]: Process-2  video.py(inference:246) >> frame 251, loop time = 0.523s, input FPS = 20.000, output FPS = 1.913
+2023-05-31 22:40:00,880 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [2]
+2023-05-31 22:40:00,889 [INFO]: Process-2  video.py(inference:246) >> frame 252, loop time = 0.494s, input FPS = 20.000, output FPS = 2.024
+2023-05-31 22:40:01,389 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:01,393 [INFO]: Process-2  video.py(inference:246) >> frame 253, loop time = 0.503s, input FPS = 20.000, output FPS = 1.987
+2023-05-31 22:40:01,911 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:01,920 [INFO]: Process-2  video.py(inference:246) >> frame 254, loop time = 0.525s, input FPS = 20.000, output FPS = 1.903
+2023-05-31 22:40:01,389 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:01,393 [INFO]: Process-2  video.py(inference:246) >> frame 253, loop time = 0.503s, input FPS = 20.000, output FPS = 1.987
+2023-05-31 22:40:01,911 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:01,920 [INFO]: Process-2  video.py(inference:246) >> frame 254, loop time = 0.525s, input FPS = 20.000, output FPS = 1.903
+2023-05-31 22:40:02,427 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:02,436 [INFO]: Process-2  video.py(inference:246) >> frame 255, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:40:02,995 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:03,007 [INFO]: Process-2  video.py(inference:246) >> frame 256, loop time = 0.568s, input FPS = 20.000, output FPS = 1.760
+2023-05-31 22:40:02,427 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:02,436 [INFO]: Process-2  video.py(inference:246) >> frame 255, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:40:02,995 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:03,007 [INFO]: Process-2  video.py(inference:246) >> frame 256, loop time = 0.568s, input FPS = 20.000, output FPS = 1.760
+2023-05-31 22:40:03,529 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:03,538 [INFO]: Process-2  video.py(inference:246) >> frame 257, loop time = 0.529s, input FPS = 20.000, output FPS = 1.889
+2023-05-31 22:40:04,031 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:04,040 [INFO]: Process-2  video.py(inference:246) >> frame 258, loop time = 0.501s, input FPS = 20.000, output FPS = 1.995
+2023-05-31 22:40:03,529 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:03,538 [INFO]: Process-2  video.py(inference:246) >> frame 257, loop time = 0.529s, input FPS = 20.000, output FPS = 1.889
+2023-05-31 22:40:04,031 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:04,040 [INFO]: Process-2  video.py(inference:246) >> frame 258, loop time = 0.501s, input FPS = 20.000, output FPS = 1.995
+2023-05-31 22:40:04,591 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:04,599 [INFO]: Process-2  video.py(inference:246) >> frame 259, loop time = 0.558s, input FPS = 20.000, output FPS = 1.793
+2023-05-31 22:40:05,104 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:05,114 [INFO]: Process-2  video.py(inference:246) >> frame 260, loop time = 0.513s, input FPS = 20.000, output FPS = 1.949
+2023-05-31 22:40:04,591 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:04,599 [INFO]: Process-2  video.py(inference:246) >> frame 259, loop time = 0.558s, input FPS = 20.000, output FPS = 1.793
+2023-05-31 22:40:05,104 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:05,114 [INFO]: Process-2  video.py(inference:246) >> frame 260, loop time = 0.513s, input FPS = 20.000, output FPS = 1.949
+2023-05-31 22:40:05,631 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:05,639 [INFO]: Process-2  video.py(inference:246) >> frame 261, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:40:05,631 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:05,639 [INFO]: Process-2  video.py(inference:246) >> frame 261, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:40:06,188 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:06,197 [INFO]: Process-2  video.py(inference:246) >> frame 262, loop time = 0.556s, input FPS = 20.000, output FPS = 1.798
+2023-05-31 22:40:06,689 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:06,698 [INFO]: Process-2  video.py(inference:246) >> frame 263, loop time = 0.500s, input FPS = 20.000, output FPS = 2.000
+2023-05-31 22:40:06,188 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:06,197 [INFO]: Process-2  video.py(inference:246) >> frame 262, loop time = 0.556s, input FPS = 20.000, output FPS = 1.798
+2023-05-31 22:40:06,689 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:06,698 [INFO]: Process-2  video.py(inference:246) >> frame 263, loop time = 0.500s, input FPS = 20.000, output FPS = 2.000
+2023-05-31 22:40:07,206 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:07,215 [INFO]: Process-2  video.py(inference:246) >> frame 264, loop time = 0.516s, input FPS = 20.000, output FPS = 1.938
+2023-05-31 22:40:07,712 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:07,721 [INFO]: Process-2  video.py(inference:246) >> frame 265, loop time = 0.504s, input FPS = 20.000, output FPS = 1.982
+2023-05-31 22:40:07,206 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:07,215 [INFO]: Process-2  video.py(inference:246) >> frame 264, loop time = 0.516s, input FPS = 20.000, output FPS = 1.938
+2023-05-31 22:40:07,712 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:07,721 [INFO]: Process-2  video.py(inference:246) >> frame 265, loop time = 0.504s, input FPS = 20.000, output FPS = 1.982
+2023-05-31 22:40:08,250 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:08,259 [INFO]: Process-2  video.py(inference:246) >> frame 266, loop time = 0.538s, input FPS = 20.000, output FPS = 1.860
+2023-05-31 22:40:08,815 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:08,823 [INFO]: Process-2  video.py(inference:246) >> frame 267, loop time = 0.562s, input FPS = 20.000, output FPS = 1.778
+2023-05-31 22:40:08,250 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:08,259 [INFO]: Process-2  video.py(inference:246) >> frame 266, loop time = 0.538s, input FPS = 20.000, output FPS = 1.860
+2023-05-31 22:40:08,815 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:08,823 [INFO]: Process-2  video.py(inference:246) >> frame 267, loop time = 0.562s, input FPS = 20.000, output FPS = 1.778
+2023-05-31 22:40:09,358 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:09,366 [INFO]: Process-2  video.py(inference:246) >> frame 268, loop time = 0.542s, input FPS = 20.000, output FPS = 1.845
+2023-05-31 22:40:09,862 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:09,867 [INFO]: Process-2  video.py(inference:246) >> frame 269, loop time = 0.499s, input FPS = 20.000, output FPS = 2.005
+2023-05-31 22:40:09,358 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:09,366 [INFO]: Process-2  video.py(inference:246) >> frame 268, loop time = 0.542s, input FPS = 20.000, output FPS = 1.845
+2023-05-31 22:40:09,862 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:09,867 [INFO]: Process-2  video.py(inference:246) >> frame 269, loop time = 0.499s, input FPS = 20.000, output FPS = 2.005
+2023-05-31 22:40:10,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:10,374 [INFO]: Process-2  video.py(inference:246) >> frame 270, loop time = 0.505s, input FPS = 20.000, output FPS = 1.981
+2023-05-31 22:40:10,906 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:10,911 [INFO]: Process-2  video.py(inference:246) >> frame 271, loop time = 0.536s, input FPS = 20.000, output FPS = 1.867
+2023-05-31 22:40:10,369 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:10,374 [INFO]: Process-2  video.py(inference:246) >> frame 270, loop time = 0.505s, input FPS = 20.000, output FPS = 1.981
+2023-05-31 22:40:10,906 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:10,911 [INFO]: Process-2  video.py(inference:246) >> frame 271, loop time = 0.536s, input FPS = 20.000, output FPS = 1.867
+2023-05-31 22:40:11,441 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:11,449 [INFO]: Process-2  video.py(inference:246) >> frame 272, loop time = 0.537s, input FPS = 20.000, output FPS = 1.863
+2023-05-31 22:40:11,954 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:11,958 [INFO]: Process-2  video.py(inference:246) >> frame 273, loop time = 0.508s, input FPS = 20.000, output FPS = 1.970
+2023-05-31 22:40:11,441 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [3]
+2023-05-31 22:40:11,449 [INFO]: Process-2  video.py(inference:246) >> frame 272, loop time = 0.537s, input FPS = 20.000, output FPS = 1.863
+2023-05-31 22:40:11,954 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:11,958 [INFO]: Process-2  video.py(inference:246) >> frame 273, loop time = 0.508s, input FPS = 20.000, output FPS = 1.970
+2023-05-31 22:40:12,475 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:12,480 [INFO]: Process-2  video.py(inference:246) >> frame 274, loop time = 0.520s, input FPS = 20.000, output FPS = 1.924
+2023-05-31 22:40:12,967 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:12,976 [INFO]: Process-2  video.py(inference:246) >> frame 275, loop time = 0.495s, input FPS = 20.000, output FPS = 2.020
+2023-05-31 22:40:12,475 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:12,480 [INFO]: Process-2  video.py(inference:246) >> frame 274, loop time = 0.520s, input FPS = 20.000, output FPS = 1.924
+2023-05-31 22:40:12,967 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [4]
+2023-05-31 22:40:12,976 [INFO]: Process-2  video.py(inference:246) >> frame 275, loop time = 0.495s, input FPS = 20.000, output FPS = 2.020
+2023-05-31 22:40:13,484 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:13,492 [INFO]: Process-2  video.py(inference:246) >> frame 276, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:40:14,054 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:14,063 [INFO]: Process-2  video.py(inference:246) >> frame 277, loop time = 0.570s, input FPS = 20.000, output FPS = 1.754
+2023-05-31 22:40:13,484 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:13,492 [INFO]: Process-2  video.py(inference:246) >> frame 276, loop time = 0.515s, input FPS = 20.000, output FPS = 1.941
+2023-05-31 22:40:14,054 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:14,063 [INFO]: Process-2  video.py(inference:246) >> frame 277, loop time = 0.570s, input FPS = 20.000, output FPS = 1.754
+2023-05-31 22:40:14,579 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:14,595 [INFO]: Process-2  video.py(inference:246) >> frame 278, loop time = 0.530s, input FPS = 20.000, output FPS = 1.886
+2023-05-31 22:40:15,132 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:15,141 [INFO]: Process-2  video.py(inference:246) >> frame 279, loop time = 0.542s, input FPS = 20.000, output FPS = 1.844
+2023-05-31 22:40:14,579 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:14,595 [INFO]: Process-2  video.py(inference:246) >> frame 278, loop time = 0.530s, input FPS = 20.000, output FPS = 1.886
+2023-05-31 22:40:15,132 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:15,141 [INFO]: Process-2  video.py(inference:246) >> frame 279, loop time = 0.542s, input FPS = 20.000, output FPS = 1.844
+2023-05-31 22:40:15,661 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:15,665 [INFO]: Process-2  video.py(inference:246) >> frame 280, loop time = 0.523s, input FPS = 20.000, output FPS = 1.911
+2023-05-31 22:40:15,661 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:15,665 [INFO]: Process-2  video.py(inference:246) >> frame 280, loop time = 0.523s, input FPS = 20.000, output FPS = 1.911
+2023-05-31 22:40:16,202 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:16,210 [INFO]: Process-2  video.py(inference:246) >> frame 281, loop time = 0.544s, input FPS = 20.000, output FPS = 1.839
+2023-05-31 22:40:16,890 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:16,895 [INFO]: Process-2  video.py(inference:246) >> frame 282, loop time = 0.683s, input FPS = 20.000, output FPS = 1.463
+2023-05-31 22:40:16,202 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:16,210 [INFO]: Process-2  video.py(inference:246) >> frame 281, loop time = 0.544s, input FPS = 20.000, output FPS = 1.839
+2023-05-31 22:40:16,890 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:16,895 [INFO]: Process-2  video.py(inference:246) >> frame 282, loop time = 0.683s, input FPS = 20.000, output FPS = 1.463
+2023-05-31 22:40:17,598 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:17,603 [INFO]: Process-2  video.py(inference:246) >> frame 283, loop time = 0.707s, input FPS = 20.000, output FPS = 1.415
+2023-05-31 22:40:17,598 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:17,603 [INFO]: Process-2  video.py(inference:246) >> frame 283, loop time = 0.707s, input FPS = 20.000, output FPS = 1.415
+2023-05-31 22:40:18,195 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:18,207 [INFO]: Process-2  video.py(inference:246) >> frame 284, loop time = 0.602s, input FPS = 20.000, output FPS = 1.661
+2023-05-31 22:40:18,718 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:18,726 [INFO]: Process-2  video.py(inference:246) >> frame 285, loop time = 0.518s, input FPS = 20.000, output FPS = 1.930
+2023-05-31 22:40:18,195 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:18,207 [INFO]: Process-2  video.py(inference:246) >> frame 284, loop time = 0.602s, input FPS = 20.000, output FPS = 1.661
+2023-05-31 22:40:18,718 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:18,726 [INFO]: Process-2  video.py(inference:246) >> frame 285, loop time = 0.518s, input FPS = 20.000, output FPS = 1.930
+2023-05-31 22:40:19,227 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:19,236 [INFO]: Process-2  video.py(inference:246) >> frame 286, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:40:19,747 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:19,756 [INFO]: Process-2  video.py(inference:246) >> frame 287, loop time = 0.518s, input FPS = 20.000, output FPS = 1.930
+2023-05-31 22:40:19,227 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:19,236 [INFO]: Process-2  video.py(inference:246) >> frame 286, loop time = 0.509s, input FPS = 20.000, output FPS = 1.965
+2023-05-31 22:40:19,747 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:19,756 [INFO]: Process-2  video.py(inference:246) >> frame 287, loop time = 0.518s, input FPS = 20.000, output FPS = 1.930
+2023-05-31 22:40:20,263 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:20,267 [INFO]: Process-2  video.py(inference:246) >> frame 288, loop time = 0.510s, input FPS = 20.000, output FPS = 1.959
+2023-05-31 22:40:20,765 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:20,770 [INFO]: Process-2  video.py(inference:246) >> frame 289, loop time = 0.501s, input FPS = 20.000, output FPS = 1.995
+2023-05-31 22:40:20,263 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:20,267 [INFO]: Process-2  video.py(inference:246) >> frame 288, loop time = 0.510s, input FPS = 20.000, output FPS = 1.959
+2023-05-31 22:40:20,765 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:20,770 [INFO]: Process-2  video.py(inference:246) >> frame 289, loop time = 0.501s, input FPS = 20.000, output FPS = 1.995
+2023-05-31 22:40:21,292 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:21,298 [INFO]: Process-2  video.py(inference:246) >> frame 290, loop time = 0.526s, input FPS = 20.000, output FPS = 1.901
+2023-05-31 22:40:21,819 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:21,824 [INFO]: Process-2  video.py(inference:246) >> frame 291, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:40:21,292 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:21,298 [INFO]: Process-2  video.py(inference:246) >> frame 290, loop time = 0.526s, input FPS = 20.000, output FPS = 1.901
+2023-05-31 22:40:21,819 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:21,824 [INFO]: Process-2  video.py(inference:246) >> frame 291, loop time = 0.525s, input FPS = 20.000, output FPS = 1.906
+2023-05-31 22:40:22,327 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:22,332 [INFO]: Process-2  video.py(inference:246) >> frame 292, loop time = 0.507s, input FPS = 20.000, output FPS = 1.972
+2023-05-31 22:40:22,868 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:22,872 [INFO]: Process-2  video.py(inference:246) >> frame 293, loop time = 0.538s, input FPS = 20.000, output FPS = 1.859
+2023-05-31 22:40:22,327 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:22,332 [INFO]: Process-2  video.py(inference:246) >> frame 292, loop time = 0.507s, input FPS = 20.000, output FPS = 1.972
+2023-05-31 22:40:22,868 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:22,872 [INFO]: Process-2  video.py(inference:246) >> frame 293, loop time = 0.538s, input FPS = 20.000, output FPS = 1.859
+2023-05-31 22:40:23,409 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:23,419 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:40:23,420 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 3
+2023-05-31 22:40:23,495 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_224023_None_openpifpaf_3.jpg
+2023-05-31 22:40:23,497 [INFO]: Process-2  video.py(inference:246) >> frame 294, loop time = 0.624s, input FPS = 20.000, output FPS = 1.604
+2023-05-31 22:40:24,094 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:24,105 [INFO]: Process-2  video.py(inference:246) >> frame 295, loop time = 0.607s, input FPS = 20.000, output FPS = 1.648
+2023-05-31 22:40:23,409 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [6]
+2023-05-31 22:40:23,419 [INFO]: Process-2  falldetector.py(update:35) >> FALL DETECTED
+2023-05-31 22:40:23,420 [INFO]: Process-2  painters.py(annotations:402) >> FALL COUNT: 3
+2023-05-31 22:40:23,495 [INFO]: Process-2  imgwriter.py(write:23) >> Frame written: /home/root1/anaconda3/lib/python3.7/site-packages/openpifpaf/output/img/20230531_224023_None_openpifpaf_3.jpg
+2023-05-31 22:40:23,497 [INFO]: Process-2  video.py(inference:246) >> frame 294, loop time = 0.624s, input FPS = 20.000, output FPS = 1.604
+2023-05-31 22:40:24,094 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:24,105 [INFO]: Process-2  video.py(inference:246) >> frame 295, loop time = 0.607s, input FPS = 20.000, output FPS = 1.648
+2023-05-31 22:40:24,605 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:24,609 [INFO]: Process-2  video.py(inference:246) >> frame 296, loop time = 0.503s, input FPS = 20.000, output FPS = 1.987
+2023-05-31 22:40:25,237 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:24,605 [INFO]: Process-2  cifcaf.py(__call__:120) >> 0 annotations: []
+2023-05-31 22:40:24,609 [INFO]: Process-2  video.py(inference:246) >> frame 296, loop time = 0.503s, input FPS = 20.000, output FPS = 1.987
+2023-05-31 22:40:25,247 [INFO]: Process-2  video.py(inference:246) >> frame 297, loop time = 0.636s, input FPS = 20.000, output FPS = 1.572
+2023-05-31 22:40:25,788 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:25,797 [INFO]: Process-2  video.py(inference:246) >> frame 298, loop time = 0.549s, input FPS = 20.000, output FPS = 1.821
+2023-05-31 22:40:25,237 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [5]
+2023-05-31 22:40:25,247 [INFO]: Process-2  video.py(inference:246) >> frame 297, loop time = 0.636s, input FPS = 20.000, output FPS = 1.572
+2023-05-31 22:40:25,788 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:25,797 [INFO]: Process-2  video.py(inference:246) >> frame 298, loop time = 0.549s, input FPS = 20.000, output FPS = 1.821
+2023-05-31 22:40:26,383 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:26,392 [INFO]: Process-2  video.py(inference:246) >> frame 299, loop time = 0.594s, input FPS = 20.000, output FPS = 1.684
+2023-05-31 22:40:26,912 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:26,922 [INFO]: Process-2  video.py(inference:246) >> frame 300, loop time = 0.529s, input FPS = 20.000, output FPS = 1.890
+2023-05-31 22:40:26,383 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:26,392 [INFO]: Process-2  video.py(inference:246) >> frame 299, loop time = 0.594s, input FPS = 20.000, output FPS = 1.684
+2023-05-31 22:40:26,912 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:26,922 [INFO]: Process-2  video.py(inference:246) >> frame 300, loop time = 0.529s, input FPS = 20.000, output FPS = 1.890
+2023-05-31 22:40:27,424 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:27,435 [INFO]: Process-2  video.py(inference:246) >> frame 301, loop time = 0.511s, input FPS = 20.000, output FPS = 1.956
+2023-05-31 22:40:27,941 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:27,950 [INFO]: Process-2  video.py(inference:246) >> frame 302, loop time = 0.514s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:40:27,424 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:27,435 [INFO]: Process-2  video.py(inference:246) >> frame 301, loop time = 0.511s, input FPS = 20.000, output FPS = 1.956
+2023-05-31 22:40:27,941 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:27,950 [INFO]: Process-2  video.py(inference:246) >> frame 302, loop time = 0.514s, input FPS = 20.000, output FPS = 1.947
+2023-05-31 22:40:28,431 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:28,440 [INFO]: Process-2  video.py(inference:246) >> frame 303, loop time = 0.489s, input FPS = 20.000, output FPS = 2.046
+2023-05-31 22:40:28,921 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:28,931 [INFO]: Process-2  video.py(inference:246) >> frame 304, loop time = 0.490s, input FPS = 20.000, output FPS = 2.042
+2023-05-31 22:40:28,431 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:28,440 [INFO]: Process-2  video.py(inference:246) >> frame 303, loop time = 0.489s, input FPS = 20.000, output FPS = 2.046
+2023-05-31 22:40:28,921 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:28,931 [INFO]: Process-2  video.py(inference:246) >> frame 304, loop time = 0.490s, input FPS = 20.000, output FPS = 2.042
+2023-05-31 22:40:29,501 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:29,511 [INFO]: Process-2  video.py(inference:246) >> frame 305, loop time = 0.578s, input FPS = 20.000, output FPS = 1.729
+2023-05-31 22:40:30,010 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:30,019 [INFO]: Process-2  video.py(inference:246) >> frame 306, loop time = 0.507s, input FPS = 20.000, output FPS = 1.974
+2023-05-31 22:40:29,501 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:29,511 [INFO]: Process-2  video.py(inference:246) >> frame 305, loop time = 0.578s, input FPS = 20.000, output FPS = 1.729
+2023-05-31 22:40:30,010 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:30,019 [INFO]: Process-2  video.py(inference:246) >> frame 306, loop time = 0.507s, input FPS = 20.000, output FPS = 1.974
+2023-05-31 22:40:30,544 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:30,552 [INFO]: Process-2  video.py(inference:246) >> frame 307, loop time = 0.533s, input FPS = 20.000, output FPS = 1.877
+2023-05-31 22:40:31,069 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:31,078 [INFO]: Process-2  video.py(inference:246) >> frame 308, loop time = 0.524s, input FPS = 20.000, output FPS = 1.907
+2023-05-31 22:40:30,544 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:30,552 [INFO]: Process-2  video.py(inference:246) >> frame 307, loop time = 0.533s, input FPS = 20.000, output FPS = 1.877
+2023-05-31 22:40:31,069 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [7]
+2023-05-31 22:40:31,078 [INFO]: Process-2  video.py(inference:246) >> frame 308, loop time = 0.524s, input FPS = 20.000, output FPS = 1.907
+2023-05-31 22:40:31,574 [INFO]: Process-2  cifcaf.py(__call__:120) >> 1 annotations: [8]
+2023-05-31 22:40:31,582 [INFO]: Process-2  video.py(inference:246) >> frame 309, loop time = 0.503s, input FPS = 20.000, output FPS = 1.987
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
