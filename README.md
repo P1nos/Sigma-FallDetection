@@ -3,25 +3,31 @@
 
 ## 프로젝트 연구배경
 + 독거노인의 수는 계속 증가하고 있으며, 요양보호사 수는 턱없이 부족한 것이 사회적 문제
-+ 독거 노인이 계속 증가하고 있으므로 독거 노인을 관리하는 스마트 노인 관리 시스템이 필요
-  
-![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/996aad77-d9c2-471c-b041-87e40db99a48)
 
-출처 : 통계청 - 「장래가구추계 2017」, 「장래인구추계 2020」 2022 , AIHub 시니어 이상행동 영상
+![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/94a698a0-5e69-4c6a-ac55-0c27fd5f2f00)
 
-------------
-
-## 프로젝트 연구목표
-+ 노인의 낙상을 감지하고, 위험 상황을 가족 및 요양보호사에게 알리는 고령자 AI 상황인식시스템
-
-![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/708e76ba-1987-4b8b-8a80-610692cca2a3)
+출처 : 통계청 - 「장래가구추계 2017」, 「장래인구추계 2020」 2022
 
 ------------
 
-## 프로젝트 전체 시스템 구조
-+ 시스템 구성도
-  
-![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/ced79533-c26b-4215-a3b7-a40c1b9e190d)
+## 프로젝트 필요성
++ 독거 노인이 계속 증가하고 있으므로 독거 노인을 관리하는 스마트 노인 관리 시스템이 필요함
+
+![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/33923ed2-5f3c-431b-a52b-04990c609f26)
+
+------------
+
+## 프로젝트 목표
++ 독거 노인의 안전, 이상, 경고, 위험을 판단하는 상황인식 시스템을 만드는 것
+
+![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/33923ed2-5f3c-431b-a52b-04990c609f26)
+
+------------
+
+## 프로젝트 현실적 제한 요소
+
+![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/6abc1b29-857e-408e-8cb6-0b6abb5d113b)
+
 
 ------------
 
