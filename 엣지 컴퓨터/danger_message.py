@@ -6,10 +6,10 @@ HOST = '192.168.0.109'  # !!!호스트, 포트 번호 바꿔야함.
 PORT = 9999
 
 # Twilio 계정 정보
-twilio_account_sid = 'AC171e017bd0b081d8d75b4c3fd2a320cd'
-twilio_auth_token = 'e9793eaade598909a28cae321e1deba4'
+twilio_account_sid = ''
+twilio_auth_token = ''
 twilio_phone_number = '+12542563792'
-target_phone_number = '+82 10 5675 3371'
+target_phone_number = '+'
 
 # Twilio 클라이언트 생성
 client = Client(twilio_account_sid, twilio_auth_token)
